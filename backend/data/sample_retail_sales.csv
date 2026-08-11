@@ -1,0 +1,1519 @@
+date,product,units,price,discount,marketing_spend,region,returned
+2021-01-02,Mechanical Keyboard RGB,19.0,129.5,0.0,211.76,Asia Pacific,0
+2021-01-02,Smart Fitness Watch,12.0,145.27,0.1,436.27,Europe,0
+2021-01-02,Insulated Steel Bottle,11.0,30.47,0.1,154.67,Asia Pacific,0
+2021-01-03,Ceramic Knife Set,2.0,87.87,0.0,101.98,Latin America,0
+2021-01-04,Insulated Steel Bottle,15.0,26.94,0.0,196.75,Latin America,0
+2021-01-05,Bluetooth Speaker XS,12.0,78.49,0.0,149.2,Europe,0
+2021-01-06,Mechanical Keyboard RGB,12.0,128.11,0.1,466.38,Asia Pacific,0
+2021-01-10,Wireless Earbuds Pro,9.0,200.61,0.1,440.58,Europe,0
+2021-01-10,Wireless Earbuds Pro,21.0,198.37,0.15,274.86,North America,0
+2021-01-11,Ceramic Knife Set,24.0,91.04,0.05,77.6,North America,0
+2021-01-11,Bluetooth Speaker XS,2.0,79.5,0.0,371.55,North America,0
+2021-01-12,Smart Fitness Watch,22.0,150.34,0.0,330.54,Asia Pacific,0
+2021-01-12,Aroma Diffuser Mini,3.0,49.0,0.1,486.75,North America,1
+2021-01-14,Bluetooth Speaker XS,12.0,80.91,0.0,301.53,Europe,0
+2021-01-14,Wireless Earbuds Pro,16.0,197.27,0.0,201.38,Asia Pacific,0
+2021-01-16,Wireless Earbuds Pro,21.0,199.17,0.0,283.56,Europe,0
+2021-01-17,Smart Fitness Watch,24.0,148.41,0.0,490.67,Latin America,0
+2021-01-20,Mechanical Keyboard RGB,1.0,131.09,0.0,363.36,Asia Pacific,0
+2021-01-21,Bluetooth Speaker XS,21.0,81.25,0.0,352.39,Europe,0
+2021-01-22,Bluetooth Speaker XS,3.0,79.0,0.0,158.31,Europe,0
+2021-01-22,Wireless Earbuds Pro,20.0,197.06,0.0,384.62,Asia Pacific,0
+2021-01-22,Aroma Diffuser Mini,2.0,49.64,0.1,387.62,Latin America,0
+2021-01-25,Ceramic Knife Set,9.0,86.5,0.1,192.78,Asia Pacific,0
+2021-01-25,Ergonomic Desk Chair,19.0,251.44,0.0,267.67,North America,0
+2021-01-28,Ceramic Knife Set,15.0,88.29,0.1,182.57,North America,0
+2021-01-28,Bluetooth Speaker XS,18.0,78.95,0.0,166.42,Latin America,0
+2021-01-29,Ceramic Knife Set,11.0,87.98,0.05,61.65,Europe,0
+2021-01-29,Wireless Earbuds Pro,,197.65,0.15,178.35,Europe,0
+2021-01-29,Wireless Earbuds Pro,16.0,200.11,0.1,299.29,Europe,0
+2021-02-04,Smart Fitness Watch,,148.76,0.1,50.72,Asia Pacific,0
+2021-02-04,Bluetooth Speaker XS,17.0,79.06,0.0,177.45,Asia Pacific,0
+2021-02-05,Smart Fitness Watch,5.0,147.49,0.0,446.63,Latin America,0
+2021-02-06,Bluetooth Speaker XS,12.0,80.28,0.15,317.14,North America,0
+2021-02-06,Ergonomic Desk Chair,11.0,250.44,0.0,323.54,Europe,0
+2021-02-07,Ergonomic Desk Chair,15.0,248.69,0.0,231.51,North America,0
+2021-02-08,Mechanical Keyboard RGB,3.0,130.9,0.1,354.41,Asia Pacific,0
+2021-02-08,Bluetooth Speaker XS,1.0,78.84,0.1,135.47,Asia Pacific,0
+2021-02-08,Aroma Diffuser Mini,20.0,50.17,0.15,418.44,Asia Pacific,0
+2021-02-09,Ceramic Knife Set,16.0,86.57,0.0,102.51,North America,0
+2021-02-10,Bluetooth Speaker XS,2.0,79.53,0.15,345.2,Latin America,0
+2021-02-10,Insulated Steel Bottle,2.0,28.59,0.0,203.52,Latin America,0
+2021-02-12,Mechanical Keyboard RGB,3.0,129.23,0.0,386.38,Asia Pacific,0
+2021-02-16,Insulated Steel Bottle,8.0,29.17,0.05,297.39,Europe,0
+2021-02-16,Wireless Earbuds Pro,24.0,199.19,0.0,253.56,North America,0
+2021-02-17,Ergonomic Desk Chair,15.0,249.92,0.0,126.24,Asia Pacific,1
+2021-02-20,Ceramic Knife Set,7.0,88.15,0.05,336.57,North America,0
+2021-02-20,Bluetooth Speaker XS,6.0,79.85,0.0,488.65,North America,0
+2021-02-20,Insulated Steel Bottle,9.0,30.85,0.0,421.52,Latin America,0
+2021-02-23,Ceramic Knife Set,20.0,86.88,0.0,77.0,Asia Pacific,0
+2021-02-24,Wireless Earbuds Pro,1.0,197.83,0.0,219.3,Latin America,0
+2021-02-24,Ergonomic Desk Chair,8.0,247.89,0.0,466.51,Asia Pacific,0
+2021-02-24,Aroma Diffuser Mini,23.0,47.36,0.1,276.37,North America,0
+2021-02-25,Mechanical Keyboard RGB,23.0,128.29,0.1,347.95,Latin America,0
+2021-03-02,Ceramic Knife Set,3.0,90.55,0.0,460.67,North America,0
+2021-03-02,Ceramic Knife Set,4.0,91.17,0.1,443.21,Asia Pacific,0
+2021-03-04,Aroma Diffuser Mini,15.0,49.16,0.0,275.82,Europe,0
+2021-03-04,Ceramic Knife Set,6.0,88.51,0.0,246.94,Latin America,0
+2021-03-06,Wireless Earbuds Pro,15.0,200.2,0.1,202.86,Latin America,0
+2021-03-08,Wireless Earbuds Pro,21.0,195.45,0.0,373.56,North America,0
+2021-03-10,Aroma Diffuser Mini,3.0,47.42,0.2,179.14,North America,0
+2021-03-13,Mechanical Keyboard RGB,21.0,125.52,0.0,162.45,Europe,0
+2021-03-16,Bluetooth Speaker XS,21.0,77.4,0.1,210.31,Latin America,0
+2021-03-16,Insulated Steel Bottle,14.0,27.85,0.0,129.75,Asia Pacific,0
+2021-03-17,Bluetooth Speaker XS,20.0,81.22,0.0,362.8,Asia Pacific,0
+2021-03-19,Ceramic Knife Set,14.0,84.86,0.0,327.31,Latin America,0
+2021-03-21,Insulated Steel Bottle,4.0,28.37,0.1,267.3,Latin America,0
+2021-03-23,Smart Fitness Watch,12.0,149.93,0.05,225.65,Latin America,0
+2021-03-24,Aroma Diffuser Mini,17.0,49.62,0.15,459.08,Europe,0
+2021-03-25,Aroma Diffuser Mini,7.0,51.19,0.0,63.11,Asia Pacific,0
+2021-03-31,Mechanical Keyboard RGB,,129.24,0.0,396.1,Asia Pacific,1
+2021-03-31,Insulated Steel Bottle,3.0,29.56,0.0,455.86,North America,0
+2021-03-31,Wireless Earbuds Pro,13.0,196.24,0.05,250.86,North America,0
+2021-04-01,Insulated Steel Bottle,15.0,27.52,0.15,297.81,Latin America,0
+2021-04-03,Ceramic Knife Set,18.0,86.33,0.0,475.01,North America,0
+2021-04-05,Wireless Earbuds Pro,19.0,199.86,0.05,145.52,Europe,0
+2021-04-06,Ergonomic Desk Chair,1.0,249.52,0.0,284.06,Asia Pacific,0
+2021-04-08,Ergonomic Desk Chair,6.0,249.47,0.05,263.62,Asia Pacific,0
+2021-04-09,Smart Fitness Watch,23.0,147.68,0.15,166.28,North America,1
+2021-04-12,Ergonomic Desk Chair,2.0,247.54,0.0,418.37,Latin America,0
+2021-04-12,Aroma Diffuser Mini,24.0,49.31,0.0,454.82,North America,0
+2021-04-14,Insulated Steel Bottle,14.0,28.0,0.2,401.87,Latin America,0
+2021-04-16,Ergonomic Desk Chair,6.0,247.47,0.15,137.91,Europe,0
+2021-04-17,Bluetooth Speaker XS,14.0,78.24,0.05,89.04,Asia Pacific,0
+2021-04-18,Mechanical Keyboard RGB,4.0,128.01,0.05,322.45,Europe,0
+2021-04-21,Bluetooth Speaker XS,21.0,77.7,0.0,75.69,Asia Pacific,0
+2021-04-21,Ergonomic Desk Chair,8.0,247.16,0.05,352.77,Europe,0
+2021-04-23,Smart Fitness Watch,3.0,149.67,0.1,288.69,North America,0
+2021-04-25,Mechanical Keyboard RGB,19.0,131.33,0.05,348.25,Europe,0
+2021-04-27,Ceramic Knife Set,14.0,88.94,0.0,315.58,Europe,0
+2021-04-27,Bluetooth Speaker XS,20.0,79.33,0.0,,North America,0
+2021-04-27,Smart Fitness Watch,17.0,149.8,0.0,140.39,Asia Pacific,0
+2021-04-28,Insulated Steel Bottle,8.0,29.55,0.0,187.57,Asia Pacific,0
+2021-04-30,Insulated Steel Bottle,24.0,27.73,0.0,286.03,North America,0
+2021-05-03,Bluetooth Speaker XS,14.0,81.58,0.0,343.34,Europe,0
+2021-05-06,Ergonomic Desk Chair,6.0,247.86,0.0,400.77,Europe,0
+2021-05-07,Smart Fitness Watch,23.0,149.97,0.0,395.23,Europe,0
+2021-05-08,Insulated Steel Bottle,22.0,29.8,0.05,487.71,Latin America,0
+2021-05-08,Ceramic Knife Set,16.0,86.06,0.0,178.63,Asia Pacific,0
+2021-05-10,Wireless Earbuds Pro,19.0,198.46,0.0,82.0,Europe,0
+2021-05-10,Ergonomic Desk Chair,14.0,249.08,0.0,205.55,Asia Pacific,0
+2021-05-10,Smart Fitness Watch,19.0,149.2,0.0,384.48,Europe,0
+2021-05-11,Ceramic Knife Set,3.0,89.45,0.05,247.15,North America,0
+2021-05-11,Smart Fitness Watch,10.0,150.14,0.0,418.0,North America,0
+2021-05-11,Mechanical Keyboard RGB,19.0,,0.1,297.2,Asia Pacific,0
+2021-05-12,Ceramic Knife Set,9.0,89.53,0.15,468.41,Asia Pacific,0
+2021-05-14,Ergonomic Desk Chair,20.0,248.93,0.1,476.54,North America,0
+2021-05-17,Mechanical Keyboard RGB,,127.47,0.05,81.19,Latin America,0
+2021-05-18,Ergonomic Desk Chair,7.0,249.05,0.15,255.39,North America,0
+2021-05-19,Insulated Steel Bottle,14.0,30.12,0.05,324.36,Europe,0
+2021-05-23,Wireless Earbuds Pro,9.0,200.66,0.0,165.14,Latin America,0
+2021-05-24,Ergonomic Desk Chair,23.0,249.81,0.0,233.18,North America,0
+2021-05-26,Ergonomic Desk Chair,19.0,251.0,0.15,354.96,Latin America,0
+2021-05-27,Insulated Steel Bottle,15.0,29.63,0.0,152.03,Latin America,0
+2021-05-27,Aroma Diffuser Mini,20.0,50.3,0.0,320.89,Latin America,0
+2021-05-28,Insulated Steel Bottle,14.0,30.41,0.1,363.85,Asia Pacific,0
+2021-05-29,Mechanical Keyboard RGB,24.0,128.66,0.1,90.72,North America,0
+2021-06-03,Insulated Steel Bottle,6.0,30.09,0.0,273.89,Asia Pacific,0
+2021-06-03,Insulated Steel Bottle,21.0,27.59,0.05,168.39,Asia Pacific,0
+2021-06-04,Wireless Earbuds Pro,4.0,199.52,0.0,375.97,Europe,0
+2021-06-08,Insulated Steel Bottle,8.0,29.87,0.1,135.3,Europe,0
+2021-06-09,Smart Fitness Watch,17.0,150.58,0.0,451.51,Latin America,0
+2021-06-10,Ergonomic Desk Chair,9.0,250.23,0.0,243.92,Latin America,0
+2021-06-11,Smart Fitness Watch,1.0,150.6,0.1,139.1,Europe,0
+2021-06-14,Wireless Earbuds Pro,24.0,198.85,0.0,247.11,Europe,0
+2021-06-15,Bluetooth Speaker XS,20.0,78.48,0.05,233.93,North America,0
+2021-06-15,Aroma Diffuser Mini,14.0,48.59,0.0,243.01,Latin America,0
+2021-06-17,Smart Fitness Watch,11.0,149.4,0.0,313.5,Latin America,0
+2021-06-19,Wireless Earbuds Pro,21.0,196.29,0.05,284.53,Europe,0
+2021-06-21,Mechanical Keyboard RGB,3.0,131.0,0.0,117.4,North America,0
+2021-06-22,Bluetooth Speaker XS,9.0,79.07,0.0,79.51,Europe,0
+2021-06-30,Wireless Earbuds Pro,14.0,198.38,0.0,378.24,Europe,0
+2021-07-01,Wireless Earbuds Pro,9.0,195.21,0.05,301.87,Asia Pacific,0
+2021-07-02,Aroma Diffuser Mini,4.0,48.94,0.15,211.55,Latin America,0
+2021-07-05,Ergonomic Desk Chair,4.0,248.7,0.2,413.76,North America,0
+2021-07-06,Smart Fitness Watch,8.0,147.65,0.0,224.63,Asia Pacific,0
+2021-07-06,Mechanical Keyboard RGB,2.0,127.99,0.0,408.18,Latin America,0
+2021-07-09,Ceramic Knife Set,9.0,88.96,0.0,187.59,Europe,0
+2021-07-09,Smart Fitness Watch,14.0,148.12,0.1,82.78,North America,0
+2021-07-10,Ceramic Knife Set,22.0,89.86,0.0,469.69,Latin America,1
+2021-07-10,Wireless Earbuds Pro,9.0,197.88,0.2,227.55,Europe,0
+2021-07-13,Insulated Steel Bottle,24.0,29.23,0.0,406.71,Asia Pacific,0
+2021-07-13,Mechanical Keyboard RGB,23.0,130.77,0.2,175.61,North America,0
+2021-07-17,Bluetooth Speaker XS,16.0,78.95,0.1,340.86,Latin America,0
+2021-07-17,Insulated Steel Bottle,17.0,29.53,0.1,442.99,Asia Pacific,0
+2021-07-20,Insulated Steel Bottle,16.0,29.44,0.0,68.74,Europe,0
+2021-07-21,Smart Fitness Watch,12.0,149.01,0.0,423.79,Europe,0
+2021-07-21,Mechanical Keyboard RGB,3.0,128.9,0.0,307.1,Latin America,0
+2021-07-22,Ergonomic Desk Chair,11.0,248.14,0.0,323.36,Europe,0
+2021-07-22,Wireless Earbuds Pro,14.0,199.23,0.0,285.42,North America,0
+2021-07-24,Wireless Earbuds Pro,18.0,198.58,0.05,443.51,Latin America,0
+2021-07-26,Wireless Earbuds Pro,21.0,201.32,0.0,69.55,Asia Pacific,0
+2021-07-27,Wireless Earbuds Pro,21.0,200.22,0.05,167.46,Latin America,0
+2021-08-02,Smart Fitness Watch,5.0,146.82,0.05,444.09,Latin America,0
+2021-08-04,Ceramic Knife Set,16.0,86.9,0.0,388.56,Asia Pacific,0
+2021-08-04,Wireless Earbuds Pro,20.0,198.8,0.2,57.94,Europe,0
+2021-08-05,Ceramic Knife Set,5.0,88.41,0.0,282.65,Asia Pacific,0
+2021-08-12,Ceramic Knife Set,3.0,88.73,0.0,288.31,North America,0
+2021-08-13,Ergonomic Desk Chair,12.0,249.98,0.0,230.4,Europe,0
+2021-08-14,Wireless Earbuds Pro,1.0,199.47,0.1,183.83,Latin America,0
+2021-08-14,Aroma Diffuser Mini,21.0,49.46,0.0,356.78,Europe,0
+2021-08-17,Bluetooth Speaker XS,9.0,81.17,0.0,143.51,Europe,0
+2021-08-21,Insulated Steel Bottle,9.0,26.92,0.05,409.53,North America,0
+2021-08-23,Ceramic Knife Set,4.0,89.16,0.0,411.37,Europe,1
+2021-08-24,Mechanical Keyboard RGB,3.0,128.13,0.05,236.87,Europe,0
+2021-08-24,Mechanical Keyboard RGB,17.0,131.15,0.15,177.6,Europe,0
+2021-08-25,Bluetooth Speaker XS,2.0,75.69,0.2,,Latin America,0
+2021-08-30,Mechanical Keyboard RGB,24.0,125.75,0.0,267.03,Europe,0
+2021-08-30,Aroma Diffuser Mini,1.0,49.46,0.0,373.81,Asia Pacific,0
+2021-08-31,Mechanical Keyboard RGB,8.0,130.69,0.0,211.49,Europe,0
+2021-09-02,Insulated Steel Bottle,13.0,30.16,0.0,324.52,North America,1
+2021-09-03,Insulated Steel Bottle,23.0,27.8,0.0,222.12,Europe,0
+2021-09-06,Ceramic Knife Set,,91.26,0.0,187.04,Europe,0
+2021-09-07,Wireless Earbuds Pro,8.0,197.15,0.2,,Latin America,0
+2021-09-07,Ergonomic Desk Chair,12.0,250.96,0.15,51.76,Asia Pacific,0
+2021-09-08,Aroma Diffuser Mini,22.0,47.35,0.0,152.24,Europe,0
+2021-09-08,Ceramic Knife Set,12.0,88.47,0.0,232.88,Asia Pacific,0
+2021-09-11,Aroma Diffuser Mini,14.0,49.96,0.0,433.07,North America,0
+2021-09-13,Wireless Earbuds Pro,15.0,196.8,0.0,409.32,Latin America,0
+2021-09-18,Smart Fitness Watch,15.0,151.2,0.05,170.22,Asia Pacific,0
+2021-09-18,Mechanical Keyboard RGB,9.0,128.46,0.05,160.04,Latin America,0
+2021-09-20,Mechanical Keyboard RGB,19.0,129.21,0.15,152.29,Europe,0
+2021-09-22,Ergonomic Desk Chair,20.0,250.74,0.1,202.66,North America,0
+2021-09-23,Wireless Earbuds Pro,22.0,197.81,0.05,274.19,Latin America,0
+2021-09-25,Ceramic Knife Set,8.0,90.59,0.05,247.4,Europe,0
+2021-09-26,Ergonomic Desk Chair,,251.46,0.0,148.22,Asia Pacific,0
+2021-09-29,Wireless Earbuds Pro,19.0,198.02,0.05,108.7,North America,0
+2021-10-01,Bluetooth Speaker XS,6.0,81.05,0.0,55.66,North America,0
+2021-10-05,Insulated Steel Bottle,20.0,26.36,0.0,119.28,Asia Pacific,0
+2021-10-08,Ergonomic Desk Chair,19.0,249.58,0.0,367.41,Asia Pacific,0
+2021-10-12,Ergonomic Desk Chair,4.0,247.16,0.0,159.64,North America,0
+2021-10-12,Ceramic Knife Set,23.0,90.41,0.15,260.87,Latin America,0
+2021-10-12,Aroma Diffuser Mini,7.0,50.29,0.0,316.09,North America,0
+2021-10-13,Bluetooth Speaker XS,4.0,82.12,0.0,449.08,Asia Pacific,0
+2021-10-20,Ceramic Knife Set,22.0,91.13,0.0,449.98,Latin America,0
+2021-10-21,Wireless Earbuds Pro,12.0,198.75,0.05,385.58,Europe,0
+2021-10-22,Wireless Earbuds Pro,13.0,197.38,0.0,65.82,North America,0
+2021-10-22,Wireless Earbuds Pro,3.0,199.85,0.2,308.78,Asia Pacific,0
+2021-10-28,Smart Fitness Watch,22.0,148.91,0.15,403.96,Europe,0
+2021-10-29,Wireless Earbuds Pro,12.0,201.33,0.05,57.78,North America,0
+2021-10-30,Aroma Diffuser Mini,2.0,45.75,0.05,297.36,North America,0
+2021-11-03,Bluetooth Speaker XS,24.0,82.28,0.0,435.99,Latin America,0
+2021-11-07,Mechanical Keyboard RGB,2.0,129.8,0.0,263.35,Asia Pacific,0
+2021-11-08,Insulated Steel Bottle,23.0,27.78,0.1,51.85,Europe,0
+2021-11-09,Aroma Diffuser Mini,9.0,50.1,0.0,54.96,North America,0
+2021-11-13,Aroma Diffuser Mini,1.0,50.95,0.0,237.49,Latin America,0
+2021-11-14,Smart Fitness Watch,8.0,149.17,0.05,119.75,Europe,0
+2021-11-14,Mechanical Keyboard RGB,23.0,126.35,0.0,349.0,Europe,0
+2021-11-14,Mechanical Keyboard RGB,6.0,128.56,0.15,368.96,North America,0
+2021-11-16,Insulated Steel Bottle,6.0,30.56,0.0,130.05,Europe,0
+2021-11-17,Insulated Steel Bottle,22.0,29.74,0.1,449.84,North America,0
+2021-11-23,Mechanical Keyboard RGB,18.0,128.77,0.05,248.86,Latin America,0
+2021-11-24,Wireless Earbuds Pro,17.0,200.96,0.1,114.28,Latin America,0
+2021-11-26,Aroma Diffuser Mini,12.0,50.11,0.0,393.91,Europe,0
+2021-11-26,Ceramic Knife Set,6.0,90.22,0.05,405.49,North America,0
+2021-11-27,Insulated Steel Bottle,8.0,28.38,0.15,337.68,Asia Pacific,0
+2021-11-30,Smart Fitness Watch,19.0,148.24,0.0,434.06,Latin America,0
+2021-12-01,Smart Fitness Watch,10.0,146.45,0.0,381.82,North America,0
+2021-12-02,Insulated Steel Bottle,1.0,28.61,0.05,446.99,North America,0
+2021-12-03,Mechanical Keyboard RGB,13.0,130.4,0.1,245.25,North America,0
+2021-12-04,Bluetooth Speaker XS,17.0,78.69,0.0,386.42,Europe,0
+2021-12-04,Ceramic Knife Set,3.0,89.67,0.15,499.89,Asia Pacific,0
+2021-12-04,Ceramic Knife Set,8.0,90.67,0.0,376.22,Europe,0
+2021-12-05,Insulated Steel Bottle,14.0,29.56,0.0,101.38,Latin America,0
+2021-12-06,Wireless Earbuds Pro,3.0,199.71,0.1,283.24,Europe,0
+2021-12-08,Bluetooth Speaker XS,16.0,76.96,0.05,314.31,North America,0
+2021-12-08,Ceramic Knife Set,13.0,88.52,0.15,128.39,Europe,0
+2021-12-12,Insulated Steel Bottle,20.0,31.59,0.2,483.3,North America,0
+2021-12-15,Smart Fitness Watch,24.0,149.16,0.0,129.01,Asia Pacific,0
+2021-12-19,Ceramic Knife Set,17.0,91.85,0.0,129.9,Europe,0
+2021-12-22,Ergonomic Desk Chair,13.0,247.92,0.0,461.83,Europe,0
+2021-12-22,Bluetooth Speaker XS,6.0,79.35,0.1,259.34,Europe,0
+2021-12-23,Bluetooth Speaker XS,17.0,78.43,0.15,78.43,North America,0
+2021-12-24,Ergonomic Desk Chair,14.0,249.89,0.0,319.18,North America,0
+2021-12-26,Aroma Diffuser Mini,17.0,50.34,0.0,320.82,Europe,0
+2021-12-26,Smart Fitness Watch,8.0,149.9,0.0,79.03,Europe,0
+2021-12-29,Ergonomic Desk Chair,11.0,250.56,0.1,487.64,Asia Pacific,0
+2021-12-29,Mechanical Keyboard RGB,20.0,128.98,0.0,294.81,Asia Pacific,0
+2021-12-30,Mechanical Keyboard RGB,1.0,128.71,0.0,301.91,Latin America,0
+2021-12-31,Insulated Steel Bottle,7.0,26.36,0.05,284.05,Asia Pacific,0
+2021-12-31,Bluetooth Speaker XS,21.0,79.96,0.1,324.83,Asia Pacific,0
+2022-01-05,Aroma Diffuser Mini,21.0,49.26,0.05,168.93,Asia Pacific,0
+2022-01-08,Aroma Diffuser Mini,17.0,48.9,0.05,179.26,North America,0
+2022-01-09,Ceramic Knife Set,10.0,88.71,0.0,280.1,Asia Pacific,0
+2022-01-10,Ceramic Knife Set,11.0,88.94,0.05,413.01,Asia Pacific,0
+2022-01-11,Ergonomic Desk Chair,22.0,248.65,0.1,72.44,Europe,0
+2022-01-11,Aroma Diffuser Mini,9.0,48.21,0.2,321.53,North America,0
+2022-01-13,Ergonomic Desk Chair,9.0,249.36,0.0,413.05,Latin America,0
+2022-01-14,Smart Fitness Watch,24.0,149.73,0.0,120.61,Latin America,0
+2022-01-15,Ergonomic Desk Chair,5.0,247.84,0.0,56.76,Asia Pacific,0
+2022-01-16,Ceramic Knife Set,17.0,88.4,0.0,190.72,Latin America,0
+2022-01-20,Bluetooth Speaker XS,9.0,78.69,0.1,314.66,Latin America,0
+2022-01-21,Ergonomic Desk Chair,17.0,249.01,0.0,112.23,Latin America,0
+2022-01-24,Wireless Earbuds Pro,24.0,198.81,0.0,241.76,Asia Pacific,0
+2022-01-24,Bluetooth Speaker XS,21.0,79.99,0.0,298.54,Latin America,0
+2022-01-25,Aroma Diffuser Mini,19.0,46.52,0.0,319.5,Asia Pacific,0
+2022-01-26,Aroma Diffuser Mini,7.0,46.79,0.0,173.49,Europe,0
+2022-01-27,Ergonomic Desk Chair,23.0,249.29,0.0,230.01,Europe,0
+2022-01-28,Bluetooth Speaker XS,9.0,78.1,0.0,400.25,Latin America,0
+2022-01-30,Ceramic Knife Set,,90.33,0.1,473.55,Europe,0
+2022-01-31,Ceramic Knife Set,13.0,90.75,0.05,437.85,Asia Pacific,0
+2022-01-31,Mechanical Keyboard RGB,11.0,129.35,0.0,303.93,Europe,0
+2022-01-31,Aroma Diffuser Mini,14.0,47.39,0.2,234.63,Latin America,1
+2022-02-01,Insulated Steel Bottle,19.0,30.58,0.05,199.83,Asia Pacific,0
+2022-02-02,Mechanical Keyboard RGB,11.0,129.3,0.1,106.23,North America,0
+2022-02-02,Ceramic Knife Set,13.0,86.77,0.0,97.95,Asia Pacific,0
+2022-02-03,Bluetooth Speaker XS,14.0,76.9,0.0,359.76,Europe,0
+2022-02-04,Smart Fitness Watch,13.0,151.28,0.0,166.91,North America,0
+2022-02-05,Ceramic Knife Set,1.0,91.03,0.0,164.6,Asia Pacific,0
+2022-02-05,Bluetooth Speaker XS,8.0,75.22,0.0,499.19,North America,0
+2022-02-05,Mechanical Keyboard RGB,12.0,126.96,0.15,134.57,North America,0
+2022-02-06,Aroma Diffuser Mini,19.0,50.71,0.0,116.63,North America,1
+2022-02-08,Ceramic Knife Set,12.0,88.97,0.0,94.41,Asia Pacific,0
+2022-02-08,Ergonomic Desk Chair,8.0,250.05,0.05,310.91,Europe,0
+2022-02-09,Bluetooth Speaker XS,8.0,78.91,0.0,332.54,Asia Pacific,0
+2022-02-10,Aroma Diffuser Mini,21.0,49.98,0.05,214.35,Europe,0
+2022-02-14,Smart Fitness Watch,13.0,149.01,0.05,290.94,Asia Pacific,1
+2022-02-17,Smart Fitness Watch,12.0,148.34,0.1,404.78,Asia Pacific,0
+2022-02-22,Insulated Steel Bottle,16.0,30.59,0.2,418.15,Asia Pacific,0
+2022-02-22,Bluetooth Speaker XS,1.0,79.3,0.0,481.06,Europe,0
+2022-02-23,Mechanical Keyboard RGB,13.0,129.98,0.05,420.92,Asia Pacific,0
+2022-02-24,Insulated Steel Bottle,7.0,29.24,0.15,304.18,North America,0
+2022-03-02,Insulated Steel Bottle,5.0,28.27,0.1,130.85,Asia Pacific,0
+2022-03-04,Wireless Earbuds Pro,,201.41,0.0,94.89,North America,0
+2022-03-05,Ceramic Knife Set,14.0,89.53,0.15,74.53,Latin America,0
+2022-03-08,Bluetooth Speaker XS,23.0,78.47,0.0,349.94,Latin America,0
+2022-03-11,Insulated Steel Bottle,13.0,30.92,0.15,413.39,Europe,0
+2022-03-14,Wireless Earbuds Pro,15.0,197.02,0.0,278.91,Europe,0
+2022-03-18,Mechanical Keyboard RGB,23.0,132.35,0.05,74.62,Latin America,0
+2022-03-21,Aroma Diffuser Mini,17.0,48.73,0.15,290.96,Asia Pacific,0
+2022-03-23,Ergonomic Desk Chair,15.0,247.1,0.0,471.09,Asia Pacific,0
+2022-03-24,Ergonomic Desk Chair,20.0,251.86,0.0,318.93,Asia Pacific,0
+2022-03-25,Bluetooth Speaker XS,18.0,78.31,0.0,414.24,Latin America,0
+2022-03-28,Insulated Steel Bottle,18.0,29.36,0.2,410.07,North America,0
+2022-03-29,Ergonomic Desk Chair,2.0,250.08,0.1,469.46,Europe,0
+2022-03-29,Ceramic Knife Set,4.0,90.78,0.1,396.6,North America,0
+2022-03-29,Ergonomic Desk Chair,1.0,249.45,0.05,386.47,Latin America,0
+2022-03-30,Ergonomic Desk Chair,4.0,248.03,0.1,155.35,North America,0
+2022-03-31,Ergonomic Desk Chair,18.0,249.33,0.0,76.97,Asia Pacific,0
+2022-04-01,Smart Fitness Watch,5.0,148.37,0.0,282.92,Asia Pacific,0
+2022-04-01,Wireless Earbuds Pro,19.0,199.37,0.1,106.0,North America,0
+2022-04-04,Insulated Steel Bottle,15.0,31.44,0.0,482.99,Latin America,0
+2022-04-05,Ceramic Knife Set,8.0,90.13,0.0,180.47,North America,0
+2022-04-05,Insulated Steel Bottle,20.0,29.31,0.0,433.82,Asia Pacific,0
+2022-04-05,Smart Fitness Watch,17.0,150.11,0.0,224.43,Asia Pacific,0
+2022-04-12,Bluetooth Speaker XS,,80.22,0.15,195.44,Latin America,0
+2022-04-13,Bluetooth Speaker XS,12.0,77.38,0.0,470.82,North America,0
+2022-04-15,Bluetooth Speaker XS,19.0,79.06,0.1,213.5,Asia Pacific,0
+2022-04-16,Mechanical Keyboard RGB,15.0,132.84,0.0,225.63,Asia Pacific,0
+2022-04-16,Ergonomic Desk Chair,9.0,250.82,0.0,97.74,North America,0
+2022-04-19,Mechanical Keyboard RGB,7.0,128.24,0.0,351.7,North America,0
+2022-04-19,Wireless Earbuds Pro,2.0,198.1,0.1,179.98,Europe,0
+2022-04-20,Bluetooth Speaker XS,9.0,78.05,0.05,313.52,Latin America,0
+2022-04-20,Smart Fitness Watch,10.0,150.3,0.15,316.11,Latin America,0
+2022-04-21,Ceramic Knife Set,2.0,91.41,0.05,373.64,North America,0
+2022-04-22,Insulated Steel Bottle,19.0,29.87,0.05,385.36,Latin America,0
+2022-04-23,Ergonomic Desk Chair,11.0,249.24,0.05,281.5,Asia Pacific,0
+2022-04-23,Aroma Diffuser Mini,,48.33,0.15,198.95,North America,0
+2022-04-27,Ceramic Knife Set,10.0,89.49,0.1,426.85,North America,0
+2022-04-29,Ergonomic Desk Chair,14.0,247.77,0.0,189.44,North America,0
+2022-04-30,Mechanical Keyboard RGB,18.0,126.1,0.05,278.38,Europe,0
+2022-05-03,Mechanical Keyboard RGB,19.0,131.46,0.05,230.56,Latin America,0
+2022-05-03,Ceramic Knife Set,22.0,87.49,0.1,434.79,Europe,0
+2022-05-04,Mechanical Keyboard RGB,9.0,128.51,0.0,244.36,Asia Pacific,0
+2022-05-04,Bluetooth Speaker XS,7.0,79.98,0.15,223.74,Latin America,0
+2022-05-08,Wireless Earbuds Pro,3.0,201.15,0.2,360.42,Europe,0
+2022-05-08,Insulated Steel Bottle,20.0,29.39,0.0,321.1,North America,0
+2022-05-12,Wireless Earbuds Pro,6.0,197.21,0.15,98.26,Europe,0
+2022-05-15,Ergonomic Desk Chair,21.0,248.55,0.0,278.68,North America,0
+2022-05-18,Insulated Steel Bottle,2.0,27.98,0.0,380.97,Europe,0
+2022-05-18,Smart Fitness Watch,6.0,148.94,0.0,496.43,Europe,0
+2022-05-18,Insulated Steel Bottle,3.0,30.85,0.0,333.12,Europe,0
+2022-05-19,Wireless Earbuds Pro,16.0,195.19,0.1,216.63,North America,0
+2022-05-20,Ceramic Knife Set,8.0,88.38,0.0,151.77,Europe,0
+2022-05-26,Insulated Steel Bottle,2.0,28.27,0.0,442.77,Latin America,0
+2022-05-26,Smart Fitness Watch,17.0,147.11,0.0,416.55,Latin America,0
+2022-05-28,Smart Fitness Watch,9.0,149.88,0.0,155.27,Latin America,0
+2022-05-29,Smart Fitness Watch,12.0,146.88,0.0,140.28,North America,0
+2022-05-30,Wireless Earbuds Pro,3.0,197.05,0.05,371.81,North America,0
+2022-05-31,Insulated Steel Bottle,11.0,30.28,0.0,191.73,Latin America,0
+2022-05-31,Aroma Diffuser Mini,1.0,51.25,0.15,187.88,Latin America,0
+2022-05-31,Ceramic Knife Set,23.0,88.89,0.1,118.53,Latin America,0
+2022-06-01,Bluetooth Speaker XS,13.0,77.17,0.0,168.79,Asia Pacific,0
+2022-06-02,Insulated Steel Bottle,,27.94,0.15,242.38,Latin America,0
+2022-06-04,Smart Fitness Watch,5.0,150.51,0.0,379.78,Europe,0
+2022-06-05,Aroma Diffuser Mini,21.0,49.17,0.0,201.34,Asia Pacific,0
+2022-06-05,Bluetooth Speaker XS,17.0,78.85,0.0,197.87,Asia Pacific,1
+2022-06-05,Bluetooth Speaker XS,23.0,79.47,0.0,178.21,North America,0
+2022-06-08,Ergonomic Desk Chair,24.0,248.94,0.05,265.23,Europe,0
+2022-06-09,Insulated Steel Bottle,6.0,31.32,0.1,131.29,North America,0
+2022-06-10,Wireless Earbuds Pro,21.0,197.88,0.0,268.53,North America,0
+2022-06-10,Insulated Steel Bottle,22.0,27.7,0.1,366.88,Europe,0
+2022-06-10,Aroma Diffuser Mini,11.0,46.92,0.0,63.41,North America,0
+2022-06-11,Bluetooth Speaker XS,18.0,78.19,0.1,54.4,Europe,0
+2022-06-14,Insulated Steel Bottle,4.0,27.36,0.0,83.81,Europe,0
+2022-06-16,Wireless Earbuds Pro,3.0,199.33,0.0,291.05,North America,0
+2022-06-21,Ergonomic Desk Chair,13.0,249.03,0.0,434.5,Latin America,0
+2022-06-21,Insulated Steel Bottle,23.0,27.38,0.0,52.2,North America,0
+2022-06-22,Ceramic Knife Set,9.0,89.88,0.05,471.5,Asia Pacific,0
+2022-06-24,Ergonomic Desk Chair,21.0,251.28,0.1,97.83,North America,0
+2022-06-25,Wireless Earbuds Pro,6.0,199.54,0.0,428.89,Europe,0
+2022-06-26,Aroma Diffuser Mini,12.0,45.18,0.1,267.28,Asia Pacific,0
+2022-06-30,Bluetooth Speaker XS,2.0,81.98,0.05,346.71,Europe,0
+2022-07-01,Insulated Steel Bottle,3.0,30.12,0.15,279.81,Latin America,0
+2022-07-03,Wireless Earbuds Pro,3.0,201.93,0.0,264.67,Latin America,0
+2022-07-05,Ergonomic Desk Chair,12.0,250.64,0.0,425.7,Asia Pacific,0
+2022-07-07,Ceramic Knife Set,15.0,90.94,0.15,390.15,Latin America,0
+2022-07-07,Wireless Earbuds Pro,9.0,199.31,0.05,267.53,Latin America,0
+2022-07-11,Mechanical Keyboard RGB,23.0,128.61,0.0,100.24,North America,0
+2022-07-13,Smart Fitness Watch,8.0,149.56,0.0,101.93,North America,0
+2022-07-14,Ceramic Knife Set,11.0,87.94,0.0,410.69,Latin America,0
+2022-07-17,Ergonomic Desk Chair,16.0,249.65,0.05,288.23,Latin America,0
+2022-07-17,Aroma Diffuser Mini,22.0,45.06,0.1,266.72,North America,0
+2022-07-18,Bluetooth Speaker XS,4.0,79.06,0.0,356.26,Latin America,0
+2022-07-18,Ergonomic Desk Chair,1.0,251.02,0.05,436.48,Latin America,0
+2022-07-21,Smart Fitness Watch,24.0,149.14,0.05,332.99,Europe,0
+2022-07-24,Aroma Diffuser Mini,7.0,51.59,0.05,393.28,Latin America,0
+2022-07-24,Insulated Steel Bottle,2.0,28.6,0.05,394.37,Asia Pacific,0
+2022-07-24,Wireless Earbuds Pro,24.0,200.5,0.1,210.32,Europe,0
+2022-07-26,Mechanical Keyboard RGB,5.0,127.68,0.0,173.34,Asia Pacific,0
+2022-07-29,Ceramic Knife Set,7.0,90.44,0.15,410.52,Latin America,0
+2022-07-29,Ceramic Knife Set,4.0,89.35,0.0,219.73,North America,0
+2022-07-29,Wireless Earbuds Pro,5.0,198.67,0.0,456.5,Europe,0
+2022-08-01,Mechanical Keyboard RGB,24.0,125.14,0.0,81.36,North America,0
+2022-08-03,Wireless Earbuds Pro,1.0,198.62,0.0,76.2,Europe,0
+2022-08-04,Insulated Steel Bottle,1.0,29.32,0.0,,North America,0
+2022-08-07,Smart Fitness Watch,15.0,150.24,0.0,341.8,Europe,0
+2022-08-09,Aroma Diffuser Mini,20.0,51.34,0.1,220.82,Europe,0
+2022-08-10,Ergonomic Desk Chair,19.0,252.05,0.0,389.78,Asia Pacific,0
+2022-08-11,Ceramic Knife Set,10.0,,0.1,352.55,North America,0
+2022-08-12,Insulated Steel Bottle,18.0,28.16,0.0,289.04,Asia Pacific,0
+2022-08-14,Aroma Diffuser Mini,3.0,48.54,0.15,94.49,Asia Pacific,0
+2022-08-15,Insulated Steel Bottle,11.0,30.11,0.1,415.48,North America,0
+2022-08-16,Mechanical Keyboard RGB,15.0,129.78,0.0,439.71,Europe,0
+2022-08-16,Ceramic Knife Set,11.0,91.44,0.1,127.48,Asia Pacific,0
+2022-08-19,Ergonomic Desk Chair,17.0,252.72,0.05,432.73,North America,0
+2022-08-24,Wireless Earbuds Pro,17.0,202.4,0.1,445.03,Europe,0
+2022-08-24,Wireless Earbuds Pro,6.0,201.24,0.05,297.24,Asia Pacific,0
+2022-08-27,Aroma Diffuser Mini,5.0,49.79,0.05,345.28,Asia Pacific,0
+2022-08-27,Ergonomic Desk Chair,8.0,251.02,0.1,222.01,Asia Pacific,0
+2022-08-30,Smart Fitness Watch,2.0,151.49,0.0,176.81,Europe,0
+2022-08-30,Bluetooth Speaker XS,16.0,78.78,0.0,374.89,Asia Pacific,0
+2022-08-31,Mechanical Keyboard RGB,20.0,128.2,0.1,437.84,Europe,0
+2022-09-01,Aroma Diffuser Mini,,47.85,0.0,344.33,Latin America,0
+2022-09-02,Bluetooth Speaker XS,12.0,77.69,0.0,280.22,Asia Pacific,0
+2022-09-07,Insulated Steel Bottle,6.0,26.93,0.0,121.52,Latin America,0
+2022-09-08,Mechanical Keyboard RGB,1.0,129.37,0.0,74.06,North America,0
+2022-09-09,Insulated Steel Bottle,4.0,27.5,0.2,250.56,Asia Pacific,0
+2022-09-15,Smart Fitness Watch,17.0,147.82,0.0,72.21,North America,1
+2022-09-16,Ergonomic Desk Chair,13.0,250.05,0.0,,North America,0
+2022-09-16,Ceramic Knife Set,18.0,89.27,0.05,222.23,North America,0
+2022-09-17,Mechanical Keyboard RGB,5.0,129.64,0.1,390.74,Latin America,1
+2022-09-18,Bluetooth Speaker XS,24.0,81.05,0.0,187.54,Europe,0
+2022-09-20,Smart Fitness Watch,24.0,150.3,0.0,316.84,Latin America,0
+2022-09-21,Ceramic Knife Set,3.0,91.28,0.15,291.96,Latin America,0
+2022-09-22,Wireless Earbuds Pro,11.0,199.12,0.05,52.12,North America,0
+2022-09-26,Bluetooth Speaker XS,13.0,81.42,0.0,82.58,Asia Pacific,0
+2022-09-26,Aroma Diffuser Mini,4.0,49.54,0.0,180.67,Europe,0
+2022-09-27,Wireless Earbuds Pro,14.0,199.25,0.0,447.01,North America,0
+2022-09-28,Smart Fitness Watch,22.0,151.19,0.0,116.16,Europe,0
+2022-09-29,Wireless Earbuds Pro,11.0,197.69,0.0,369.9,Latin America,0
+2022-10-01,Aroma Diffuser Mini,10.0,52.04,0.15,488.01,Europe,0
+2022-10-02,Mechanical Keyboard RGB,19.0,128.58,0.0,405.76,Europe,0
+2022-10-03,Wireless Earbuds Pro,18.0,197.17,0.1,159.33,Asia Pacific,0
+2022-10-04,Ergonomic Desk Chair,6.0,249.98,0.0,458.76,North America,0
+2022-10-08,Bluetooth Speaker XS,15.0,78.43,0.1,91.9,Europe,0
+2022-10-08,Ceramic Knife Set,21.0,92.04,0.1,260.66,Europe,0
+2022-10-09,Wireless Earbuds Pro,10.0,198.35,0.0,449.39,Latin America,0
+2022-10-11,Bluetooth Speaker XS,5.0,79.47,0.05,338.57,Latin America,0
+2022-10-15,Insulated Steel Bottle,5.0,26.86,0.0,236.14,Europe,0
+2022-10-16,Bluetooth Speaker XS,10.0,80.22,0.15,181.77,North America,0
+2022-10-19,Ceramic Knife Set,5.0,87.83,0.15,218.79,Europe,0
+2022-10-21,Bluetooth Speaker XS,3.0,80.04,0.0,279.02,Europe,0
+2022-10-22,Aroma Diffuser Mini,23.0,48.36,0.0,,Asia Pacific,0
+2022-10-24,Smart Fitness Watch,6.0,145.93,0.0,486.04,North America,0
+2022-10-24,Ceramic Knife Set,4.0,89.2,0.1,469.88,Asia Pacific,0
+2022-10-26,Smart Fitness Watch,18.0,149.13,0.0,441.8,North America,0
+2022-10-26,Mechanical Keyboard RGB,9.0,130.32,0.0,239.82,North America,0
+2022-10-29,Smart Fitness Watch,17.0,151.33,0.0,361.09,North America,0
+2022-10-30,Insulated Steel Bottle,13.0,,0.0,456.27,Asia Pacific,0
+2022-11-03,Aroma Diffuser Mini,15.0,50.3,0.1,432.69,Asia Pacific,0
+2022-11-05,Mechanical Keyboard RGB,20.0,129.42,0.0,236.45,Asia Pacific,0
+2022-11-06,Bluetooth Speaker XS,17.0,76.86,0.05,100.57,Latin America,0
+2022-11-07,Ceramic Knife Set,13.0,89.3,0.0,84.03,Asia Pacific,0
+2022-11-13,Insulated Steel Bottle,16.0,29.32,0.0,309.68,Latin America,0
+2022-11-13,Aroma Diffuser Mini,22.0,48.7,0.05,339.18,Latin America,0
+2022-11-15,Mechanical Keyboard RGB,4.0,129.95,0.2,432.43,Latin America,0
+2022-11-16,Mechanical Keyboard RGB,5.0,130.68,0.1,181.63,Europe,0
+2022-11-16,Insulated Steel Bottle,5.0,27.77,0.0,125.36,Europe,0
+2022-11-16,Ergonomic Desk Chair,9.0,247.75,0.0,220.55,Europe,0
+2022-11-16,Bluetooth Speaker XS,17.0,78.79,0.15,209.11,Latin America,0
+2022-11-18,Insulated Steel Bottle,13.0,28.08,0.0,109.61,Latin America,0
+2022-11-20,Mechanical Keyboard RGB,2.0,126.54,0.0,352.53,North America,0
+2022-11-20,Wireless Earbuds Pro,13.0,197.51,0.15,278.91,Latin America,0
+2022-11-21,Aroma Diffuser Mini,22.0,47.15,0.1,374.51,Europe,0
+2022-11-24,Insulated Steel Bottle,21.0,30.81,0.2,208.71,Latin America,0
+2022-11-24,Ergonomic Desk Chair,23.0,251.55,0.15,196.57,Latin America,0
+2022-11-26,Mechanical Keyboard RGB,19.0,127.36,0.15,262.66,North America,0
+2022-11-28,Bluetooth Speaker XS,3.0,79.82,0.0,444.83,Latin America,0
+2022-11-30,Smart Fitness Watch,10.0,150.31,0.0,68.13,Asia Pacific,0
+2022-11-30,Mechanical Keyboard RGB,2.0,126.76,0.05,412.17,North America,0
+2022-12-01,Bluetooth Speaker XS,13.0,79.24,0.05,216.04,Latin America,0
+2022-12-01,Insulated Steel Bottle,19.0,32.8,0.0,434.58,Latin America,0
+2022-12-01,Bluetooth Speaker XS,17.0,80.02,0.0,410.99,North America,0
+2022-12-03,Ceramic Knife Set,21.0,88.63,0.0,206.94,Latin America,0
+2022-12-04,Ceramic Knife Set,14.0,88.16,0.05,362.24,Europe,0
+2022-12-05,Ceramic Knife Set,12.0,85.97,0.0,121.83,Asia Pacific,0
+2022-12-05,Ergonomic Desk Chair,21.0,249.71,0.0,453.33,Asia Pacific,0
+2022-12-06,Ergonomic Desk Chair,,251.92,0.05,232.02,Europe,0
+2022-12-08,Wireless Earbuds Pro,11.0,197.78,0.1,255.03,Latin America,0
+2022-12-10,Ergonomic Desk Chair,7.0,246.1,0.0,367.59,Latin America,0
+2022-12-11,Smart Fitness Watch,4.0,,0.05,419.38,Asia Pacific,0
+2022-12-11,Insulated Steel Bottle,19.0,30.32,0.1,156.35,Latin America,0
+2022-12-11,Mechanical Keyboard RGB,1.0,128.36,0.0,347.61,Asia Pacific,0
+2022-12-11,Mechanical Keyboard RGB,24.0,127.77,0.0,226.4,Asia Pacific,0
+2022-12-12,Wireless Earbuds Pro,3.0,199.03,0.0,215.92,Europe,0
+2022-12-13,Ergonomic Desk Chair,13.0,,0.0,360.51,Asia Pacific,0
+2022-12-15,Smart Fitness Watch,15.0,146.92,0.15,224.23,Latin America,0
+2022-12-15,Bluetooth Speaker XS,2.0,78.67,0.0,205.75,Latin America,0
+2022-12-15,Wireless Earbuds Pro,11.0,198.25,0.05,426.15,North America,0
+2022-12-15,Smart Fitness Watch,4.0,148.04,0.0,95.57,Latin America,1
+2022-12-17,Bluetooth Speaker XS,19.0,77.47,0.0,354.15,North America,0
+2022-12-17,Smart Fitness Watch,17.0,150.41,0.05,161.93,Asia Pacific,0
+2022-12-18,Bluetooth Speaker XS,3.0,78.03,0.0,56.97,Latin America,0
+2022-12-19,Aroma Diffuser Mini,18.0,46.01,0.0,125.04,Europe,0
+2022-12-24,Smart Fitness Watch,8.0,149.4,0.0,323.0,Europe,0
+2022-12-25,Mechanical Keyboard RGB,22.0,130.09,0.0,369.11,Europe,0
+2022-12-26,Ceramic Knife Set,24.0,87.81,0.05,59.48,Asia Pacific,0
+2022-12-27,Ergonomic Desk Chair,19.0,248.16,0.0,66.39,Asia Pacific,0
+2022-12-28,Bluetooth Speaker XS,5.0,78.03,0.15,456.14,North America,0
+2022-12-28,Aroma Diffuser Mini,7.0,48.48,0.05,82.99,Europe,0
+2022-12-30,Smart Fitness Watch,21.0,150.66,0.0,452.38,North America,0
+2022-12-30,Mechanical Keyboard RGB,8.0,128.83,0.0,152.67,North America,0
+2022-12-30,Ceramic Knife Set,5.0,90.26,0.0,383.01,Latin America,0
+2023-01-01,Bluetooth Speaker XS,17.0,77.55,0.1,189.38,Latin America,0
+2023-01-01,Smart Fitness Watch,,148.42,0.0,436.44,Europe,0
+2023-01-03,Smart Fitness Watch,4.0,150.43,0.1,365.2,Asia Pacific,0
+2023-01-06,Bluetooth Speaker XS,22.0,77.79,0.0,230.82,Latin America,0
+2023-01-08,Wireless Earbuds Pro,19.0,200.52,0.1,84.34,Asia Pacific,1
+2023-01-09,Wireless Earbuds Pro,21.0,198.06,0.0,379.72,North America,0
+2023-01-10,Mechanical Keyboard RGB,2.0,128.52,0.15,327.6,North America,0
+2023-01-11,Ceramic Knife Set,11.0,91.51,0.0,51.31,North America,1
+2023-01-16,Bluetooth Speaker XS,22.0,78.35,0.0,54.24,North America,0
+2023-01-18,Mechanical Keyboard RGB,13.0,129.22,0.0,413.96,Europe,0
+2023-01-18,Mechanical Keyboard RGB,15.0,129.92,0.0,166.73,North America,0
+2023-01-20,Insulated Steel Bottle,12.0,29.34,0.2,336.26,Latin America,0
+2023-01-21,Smart Fitness Watch,22.0,149.38,0.0,254.4,North America,0
+2023-01-21,Ergonomic Desk Chair,21.0,248.92,0.0,438.54,Asia Pacific,0
+2023-01-24,Smart Fitness Watch,22.0,147.05,0.05,462.63,Latin America,0
+2023-01-24,Wireless Earbuds Pro,11.0,199.52,0.0,498.56,Asia Pacific,0
+2023-01-25,Ceramic Knife Set,7.0,87.9,0.05,119.16,Asia Pacific,0
+2023-01-25,Smart Fitness Watch,5.0,150.16,0.05,438.33,Europe,0
+2023-01-28,Bluetooth Speaker XS,17.0,81.06,0.0,169.71,Europe,0
+2023-01-29,Mechanical Keyboard RGB,24.0,126.29,0.15,315.87,Asia Pacific,1
+2023-01-29,Bluetooth Speaker XS,20.0,81.06,0.0,277.6,Asia Pacific,0
+2023-01-29,Insulated Steel Bottle,9.0,28.38,0.0,58.09,North America,0
+2023-01-31,Ceramic Knife Set,14.0,88.8,0.1,469.75,Latin America,0
+2023-02-02,Mechanical Keyboard RGB,12.0,127.63,0.05,85.25,North America,0
+2023-02-02,Bluetooth Speaker XS,6.0,79.28,0.0,359.7,Europe,0
+2023-02-02,Wireless Earbuds Pro,17.0,199.1,0.05,403.25,Europe,0
+2023-02-03,Ergonomic Desk Chair,,250.62,0.0,407.88,North America,0
+2023-02-03,Insulated Steel Bottle,19.0,27.89,0.0,110.97,Latin America,0
+2023-02-06,Ceramic Knife Set,16.0,91.49,0.15,251.41,Asia Pacific,0
+2023-02-08,Insulated Steel Bottle,12.0,30.0,0.0,423.24,North America,0
+2023-02-09,Wireless Earbuds Pro,12.0,199.14,0.0,,Europe,0
+2023-02-10,Ceramic Knife Set,20.0,88.73,0.1,260.49,Latin America,0
+2023-02-11,Insulated Steel Bottle,6.0,28.54,0.2,172.76,Europe,0
+2023-02-13,Aroma Diffuser Mini,23.0,48.64,0.0,258.6,Latin America,0
+2023-02-14,Wireless Earbuds Pro,4.0,199.25,0.05,449.53,Latin America,0
+2023-02-15,Wireless Earbuds Pro,6.0,198.69,0.05,254.81,Latin America,0
+2023-02-15,Wireless Earbuds Pro,11.0,198.04,0.15,300.16,North America,0
+2023-02-17,Aroma Diffuser Mini,1.0,49.26,0.15,231.79,North America,0
+2023-02-17,Aroma Diffuser Mini,24.0,47.75,0.0,257.05,North America,0
+2023-02-18,Bluetooth Speaker XS,23.0,79.48,0.0,56.83,Latin America,0
+2023-02-19,Mechanical Keyboard RGB,15.0,128.67,0.0,177.69,Latin America,0
+2023-02-20,Ergonomic Desk Chair,11.0,250.05,0.1,246.46,Europe,0
+2023-02-24,Insulated Steel Bottle,19.0,30.48,0.05,335.21,Asia Pacific,0
+2023-03-03,Bluetooth Speaker XS,18.0,80.48,0.05,252.52,North America,0
+2023-03-03,Insulated Steel Bottle,17.0,,0.2,202.02,Latin America,0
+2023-03-04,Ergonomic Desk Chair,19.0,249.65,0.0,224.64,Europe,0
+2023-03-05,Mechanical Keyboard RGB,21.0,128.52,0.0,159.03,Europe,0
+2023-03-05,Aroma Diffuser Mini,14.0,50.02,0.0,466.02,Europe,0
+2023-03-05,Mechanical Keyboard RGB,18.0,130.19,0.0,284.78,North America,0
+2023-03-07,Aroma Diffuser Mini,19.0,46.65,0.0,56.03,North America,0
+2023-03-07,Ergonomic Desk Chair,15.0,249.57,0.0,58.75,Asia Pacific,0
+2023-03-08,Mechanical Keyboard RGB,15.0,,0.05,487.83,Europe,1
+2023-03-09,Bluetooth Speaker XS,4.0,78.47,0.15,149.65,North America,0
+2023-03-09,Ceramic Knife Set,7.0,88.14,0.05,412.52,Europe,0
+2023-03-11,Bluetooth Speaker XS,13.0,78.37,0.05,76.22,Latin America,1
+2023-03-16,Insulated Steel Bottle,3.0,26.74,0.0,464.52,Europe,0
+2023-03-16,Bluetooth Speaker XS,16.0,79.19,0.1,443.49,Asia Pacific,0
+2023-03-16,Ergonomic Desk Chair,9.0,249.04,0.1,306.99,North America,0
+2023-03-18,Wireless Earbuds Pro,8.0,199.3,0.05,,Latin America,0
+2023-03-20,Insulated Steel Bottle,20.0,29.62,0.0,166.01,North America,0
+2023-03-25,Mechanical Keyboard RGB,13.0,127.8,0.0,233.07,Latin America,0
+2023-03-26,Insulated Steel Bottle,17.0,29.41,0.0,257.03,Europe,0
+2023-03-26,Ceramic Knife Set,17.0,89.66,0.05,183.96,Europe,0
+2023-03-26,Aroma Diffuser Mini,17.0,48.27,0.1,64.83,Asia Pacific,0
+2023-03-27,Mechanical Keyboard RGB,1.0,129.63,0.15,315.56,Asia Pacific,0
+2023-03-27,Smart Fitness Watch,8.0,149.12,0.0,285.87,Latin America,0
+2023-03-27,Insulated Steel Bottle,19.0,28.05,0.1,177.35,Asia Pacific,0
+2023-04-01,Mechanical Keyboard RGB,6.0,129.42,0.15,67.09,Asia Pacific,0
+2023-04-03,Mechanical Keyboard RGB,3.0,128.56,0.0,497.57,Asia Pacific,0
+2023-04-04,Mechanical Keyboard RGB,5.0,130.05,0.0,266.89,Asia Pacific,0
+2023-04-05,Aroma Diffuser Mini,13.0,48.64,0.15,390.2,Europe,0
+2023-04-06,Smart Fitness Watch,15.0,147.07,0.0,253.54,Asia Pacific,0
+2023-04-06,Ergonomic Desk Chair,14.0,249.4,0.15,69.43,Europe,0
+2023-04-07,Bluetooth Speaker XS,23.0,79.34,0.2,189.32,Europe,0
+2023-04-08,Mechanical Keyboard RGB,16.0,127.38,0.05,194.05,North America,0
+2023-04-09,Wireless Earbuds Pro,18.0,200.13,0.1,427.26,Europe,0
+2023-04-11,Ergonomic Desk Chair,22.0,,0.1,344.4,Europe,0
+2023-04-11,Ceramic Knife Set,22.0,87.7,0.05,173.94,Asia Pacific,0
+2023-04-13,Aroma Diffuser Mini,11.0,48.01,0.0,485.48,Europe,0
+2023-04-14,Insulated Steel Bottle,3.0,28.79,0.0,194.69,Latin America,0
+2023-04-16,Aroma Diffuser Mini,22.0,47.86,0.0,499.21,Asia Pacific,0
+2023-04-18,Insulated Steel Bottle,10.0,29.96,0.05,498.27,Asia Pacific,0
+2023-04-18,Aroma Diffuser Mini,10.0,49.22,0.0,136.04,Asia Pacific,0
+2023-04-27,Insulated Steel Bottle,21.0,27.36,0.0,190.73,North America,0
+2023-04-29,Mechanical Keyboard RGB,16.0,127.77,0.0,268.72,Asia Pacific,0
+2023-04-30,Bluetooth Speaker XS,12.0,80.78,0.1,348.85,Europe,0
+2023-05-01,Insulated Steel Bottle,2.0,31.3,0.2,287.62,Latin America,0
+2023-05-02,Smart Fitness Watch,9.0,149.81,0.2,486.25,Asia Pacific,0
+2023-05-03,Insulated Steel Bottle,24.0,28.68,0.0,375.8,Asia Pacific,0
+2023-05-04,Wireless Earbuds Pro,3.0,198.34,0.15,145.42,Latin America,0
+2023-05-05,Insulated Steel Bottle,24.0,29.82,0.1,97.29,Asia Pacific,0
+2023-05-11,Wireless Earbuds Pro,15.0,199.11,0.05,359.78,North America,0
+2023-05-14,Ceramic Knife Set,3.0,86.58,0.05,121.3,Europe,0
+2023-05-19,Mechanical Keyboard RGB,19.0,130.55,0.0,404.45,Latin America,0
+2023-05-19,Wireless Earbuds Pro,18.0,201.02,0.15,189.97,Latin America,0
+2023-05-21,Bluetooth Speaker XS,8.0,80.11,0.0,,North America,0
+2023-05-23,Ergonomic Desk Chair,17.0,247.36,0.0,54.86,Europe,0
+2023-05-23,Mechanical Keyboard RGB,8.0,128.04,0.05,365.46,North America,0
+2023-05-24,Wireless Earbuds Pro,7.0,196.21,0.0,100.97,Europe,0
+2023-05-26,Mechanical Keyboard RGB,7.0,131.39,0.0,397.8,North America,0
+2023-05-27,Smart Fitness Watch,3.0,148.46,0.05,271.34,Asia Pacific,0
+2023-05-27,Mechanical Keyboard RGB,1.0,132.5,0.0,402.93,North America,0
+2023-05-27,Mechanical Keyboard RGB,4.0,131.93,0.1,312.77,Latin America,0
+2023-05-28,Ceramic Knife Set,5.0,87.64,0.05,87.09,Latin America,0
+2023-05-29,Bluetooth Speaker XS,1.0,77.94,0.05,394.54,Latin America,0
+2023-05-31,Aroma Diffuser Mini,15.0,49.7,0.05,81.41,North America,0
+2023-05-31,Aroma Diffuser Mini,5.0,46.37,0.05,265.42,Latin America,0
+2023-06-02,Wireless Earbuds Pro,13.0,198.34,0.05,127.56,Latin America,0
+2023-06-04,Mechanical Keyboard RGB,8.0,,0.05,388.55,Asia Pacific,0
+2023-06-04,Wireless Earbuds Pro,8.0,201.78,0.1,460.22,Asia Pacific,0
+2023-06-05,Ceramic Knife Set,5.0,89.24,0.1,299.36,Europe,1
+2023-06-06,Ceramic Knife Set,9.0,88.57,0.15,287.22,Europe,0
+2023-06-06,Insulated Steel Bottle,1.0,28.05,0.0,393.78,Europe,0
+2023-06-12,Smart Fitness Watch,4.0,150.34,0.0,52.29,North America,0
+2023-06-14,Ceramic Knife Set,3.0,88.25,0.15,462.99,Europe,0
+2023-06-14,Insulated Steel Bottle,2.0,28.92,0.0,138.85,North America,0
+2023-06-15,Bluetooth Speaker XS,8.0,78.04,0.0,492.85,North America,0
+2023-06-16,Wireless Earbuds Pro,23.0,196.72,0.05,,Europe,0
+2023-06-19,Ergonomic Desk Chair,9.0,247.51,0.0,398.41,Europe,0
+2023-06-19,Bluetooth Speaker XS,2.0,78.25,0.0,345.29,North America,0
+2023-06-21,Ceramic Knife Set,14.0,88.61,0.2,262.25,Asia Pacific,0
+2023-06-22,Bluetooth Speaker XS,14.0,78.67,0.05,307.23,Latin America,0
+2023-06-24,Bluetooth Speaker XS,4.0,78.87,0.0,70.88,Latin America,0
+2023-06-26,Smart Fitness Watch,6.0,148.27,0.2,330.78,Latin America,0
+2023-06-29,Smart Fitness Watch,11.0,151.02,0.2,331.74,Asia Pacific,0
+2023-07-03,Smart Fitness Watch,3.0,150.42,0.0,451.04,North America,0
+2023-07-04,Bluetooth Speaker XS,8.0,,0.0,277.55,Europe,0
+2023-07-07,Ceramic Knife Set,3.0,89.38,0.1,84.71,North America,0
+2023-07-07,Ergonomic Desk Chair,14.0,248.44,0.1,187.79,North America,0
+2023-07-08,Mechanical Keyboard RGB,13.0,124.73,0.05,345.03,Europe,0
+2023-07-09,Bluetooth Speaker XS,13.0,79.03,0.15,157.67,Asia Pacific,0
+2023-07-10,Insulated Steel Bottle,2.0,29.46,0.05,176.24,Latin America,0
+2023-07-10,Ceramic Knife Set,13.0,86.58,0.0,419.21,Latin America,0
+2023-07-10,Bluetooth Speaker XS,19.0,79.75,0.05,312.94,North America,0
+2023-07-10,Ergonomic Desk Chair,6.0,248.58,0.0,278.84,Asia Pacific,0
+2023-07-12,Mechanical Keyboard RGB,16.0,129.51,0.1,193.3,Latin America,0
+2023-07-14,Smart Fitness Watch,2.0,148.62,0.05,378.92,Asia Pacific,0
+2023-07-18,Ceramic Knife Set,8.0,90.88,0.0,179.47,Europe,0
+2023-07-18,Aroma Diffuser Mini,17.0,49.34,0.05,381.68,North America,0
+2023-07-23,Mechanical Keyboard RGB,23.0,130.5,0.0,81.55,North America,0
+2023-07-23,Insulated Steel Bottle,2.0,30.63,0.0,439.04,Asia Pacific,0
+2023-07-23,Bluetooth Speaker XS,10.0,77.32,0.05,274.8,Latin America,0
+2023-07-24,Ergonomic Desk Chair,16.0,247.89,0.0,247.33,Asia Pacific,0
+2023-07-25,Aroma Diffuser Mini,6.0,49.68,0.1,324.96,Europe,0
+2023-07-25,Ergonomic Desk Chair,2.0,,0.0,330.89,Latin America,0
+2023-07-26,Aroma Diffuser Mini,2.0,48.64,0.05,109.42,Latin America,0
+2023-07-26,Ceramic Knife Set,13.0,90.93,0.1,390.31,Asia Pacific,0
+2023-07-28,Aroma Diffuser Mini,24.0,48.53,0.05,174.17,Europe,0
+2023-07-28,Insulated Steel Bottle,15.0,27.55,0.0,457.23,Latin America,0
+2023-07-28,Insulated Steel Bottle,2.0,27.75,0.2,418.03,North America,0
+2023-07-29,Wireless Earbuds Pro,7.0,202.27,0.0,205.82,Europe,0
+2023-08-02,Insulated Steel Bottle,,28.73,0.0,413.48,Latin America,0
+2023-08-05,Mechanical Keyboard RGB,8.0,126.95,0.0,210.38,Asia Pacific,1
+2023-08-05,Aroma Diffuser Mini,23.0,46.35,0.0,95.43,Latin America,0
+2023-08-06,Insulated Steel Bottle,14.0,28.06,0.2,482.85,North America,1
+2023-08-09,Ceramic Knife Set,24.0,88.71,0.0,343.67,Europe,0
+2023-08-10,Ergonomic Desk Chair,23.0,250.42,0.1,255.24,Latin America,0
+2023-08-10,Smart Fitness Watch,22.0,150.28,0.1,229.0,North America,0
+2023-08-12,Ergonomic Desk Chair,7.0,248.99,0.0,196.12,Latin America,0
+2023-08-13,Wireless Earbuds Pro,21.0,198.32,0.05,491.65,Latin America,0
+2023-08-13,Ergonomic Desk Chair,7.0,249.51,0.0,110.64,Europe,0
+2023-08-13,Aroma Diffuser Mini,1.0,46.38,0.0,191.66,Asia Pacific,0
+2023-08-14,Wireless Earbuds Pro,17.0,201.97,0.0,268.47,Asia Pacific,1
+2023-08-14,Aroma Diffuser Mini,9.0,49.98,0.15,265.1,North America,0
+2023-08-15,Ceramic Knife Set,21.0,90.3,0.2,262.11,North America,0
+2023-08-15,Wireless Earbuds Pro,13.0,197.39,0.0,129.1,North America,0
+2023-08-15,Bluetooth Speaker XS,21.0,80.92,0.0,115.22,Europe,0
+2023-08-16,Mechanical Keyboard RGB,19.0,128.31,0.1,164.65,Asia Pacific,0
+2023-08-16,Mechanical Keyboard RGB,,127.57,0.0,461.54,North America,0
+2023-08-18,Aroma Diffuser Mini,19.0,48.94,0.15,100.87,North America,0
+2023-08-18,Ergonomic Desk Chair,22.0,248.91,0.05,390.84,Latin America,0
+2023-08-19,Smart Fitness Watch,17.0,147.38,0.0,390.9,Latin America,0
+2023-08-22,Smart Fitness Watch,23.0,147.66,0.1,414.4,North America,1
+2023-08-25,Bluetooth Speaker XS,23.0,77.54,0.0,448.98,Latin America,0
+2023-08-26,Wireless Earbuds Pro,10.0,197.55,0.15,168.37,Latin America,0
+2023-08-29,Bluetooth Speaker XS,10.0,78.42,0.15,151.05,Latin America,0
+2023-08-30,Bluetooth Speaker XS,4.0,76.92,0.0,259.48,Europe,0
+2023-08-31,Ergonomic Desk Chair,8.0,247.96,0.0,169.29,North America,0
+2023-08-31,Smart Fitness Watch,22.0,150.57,0.2,380.44,North America,0
+2023-09-01,Wireless Earbuds Pro,20.0,200.23,0.15,336.17,Latin America,0
+2023-09-02,Ceramic Knife Set,20.0,87.43,0.0,443.74,Europe,0
+2023-09-03,Ergonomic Desk Chair,18.0,250.44,0.1,87.23,Latin America,0
+2023-09-05,Bluetooth Speaker XS,14.0,76.05,0.0,461.79,Europe,0
+2023-09-08,Bluetooth Speaker XS,18.0,82.64,0.0,182.01,North America,0
+2023-09-11,Ceramic Knife Set,14.0,90.95,0.15,270.81,Latin America,0
+2023-09-12,Bluetooth Speaker XS,20.0,78.16,0.0,247.38,North America,0
+2023-09-12,Bluetooth Speaker XS,21.0,79.57,0.15,392.14,Europe,0
+2023-09-15,Bluetooth Speaker XS,24.0,76.9,0.0,239.15,Asia Pacific,1
+2023-09-15,Mechanical Keyboard RGB,15.0,129.09,0.05,474.6,Europe,0
+2023-09-16,Ergonomic Desk Chair,22.0,248.72,0.0,456.14,Asia Pacific,0
+2023-09-16,Insulated Steel Bottle,4.0,27.75,0.05,442.47,North America,0
+2023-09-17,Ergonomic Desk Chair,13.0,248.3,0.05,82.07,North America,0
+2023-09-17,Ceramic Knife Set,23.0,88.15,0.0,434.42,Latin America,0
+2023-09-19,Bluetooth Speaker XS,8.0,77.3,0.05,401.74,Asia Pacific,0
+2023-09-20,Ergonomic Desk Chair,18.0,247.71,0.0,96.58,Europe,0
+2023-09-20,Mechanical Keyboard RGB,12.0,126.84,0.0,98.34,North America,0
+2023-09-21,Smart Fitness Watch,23.0,150.29,0.1,95.52,Asia Pacific,0
+2023-09-23,Ceramic Knife Set,14.0,87.6,0.0,55.1,Europe,0
+2023-09-24,Aroma Diffuser Mini,2.0,47.17,0.05,296.89,Asia Pacific,0
+2023-09-30,Ergonomic Desk Chair,18.0,250.26,0.05,488.03,Europe,0
+2023-10-05,Aroma Diffuser Mini,24.0,49.55,0.05,247.41,Europe,0
+2023-10-06,Bluetooth Speaker XS,2.0,80.21,0.0,293.34,Europe,0
+2023-10-06,Mechanical Keyboard RGB,11.0,130.37,0.0,485.59,Europe,0
+2023-10-10,Mechanical Keyboard RGB,,131.91,0.0,164.83,Asia Pacific,0
+2023-10-11,Ergonomic Desk Chair,12.0,248.77,0.1,436.31,Asia Pacific,0
+2023-10-11,Ceramic Knife Set,17.0,86.81,0.1,295.88,Latin America,0
+2023-10-13,Ceramic Knife Set,15.0,89.41,0.05,306.26,Asia Pacific,0
+2023-10-13,Mechanical Keyboard RGB,17.0,128.0,0.0,204.43,Asia Pacific,0
+2023-10-14,Ceramic Knife Set,18.0,87.56,0.0,302.71,Latin America,0
+2023-10-14,Mechanical Keyboard RGB,22.0,129.15,0.0,82.91,Asia Pacific,0
+2023-10-14,Ergonomic Desk Chair,6.0,250.3,0.0,394.09,Europe,0
+2023-10-17,Insulated Steel Bottle,17.0,27.75,0.0,178.11,North America,0
+2023-10-18,Mechanical Keyboard RGB,23.0,130.91,0.0,449.42,North America,0
+2023-10-19,Aroma Diffuser Mini,24.0,47.52,0.0,215.53,Latin America,0
+2023-10-24,Ceramic Knife Set,18.0,88.63,0.0,114.27,Asia Pacific,0
+2023-10-26,Mechanical Keyboard RGB,8.0,129.58,0.0,363.15,Asia Pacific,0
+2023-10-26,Mechanical Keyboard RGB,9.0,128.42,0.0,124.06,Latin America,0
+2023-10-26,Ergonomic Desk Chair,6.0,246.34,0.0,389.16,North America,0
+2023-10-28,Ceramic Knife Set,5.0,90.39,0.0,485.65,Europe,0
+2023-10-28,Insulated Steel Bottle,12.0,28.06,0.05,400.8,Asia Pacific,0
+2023-10-29,Ergonomic Desk Chair,11.0,250.12,0.0,60.1,Latin America,0
+2023-11-02,Insulated Steel Bottle,1.0,27.1,0.0,319.95,Europe,0
+2023-11-05,Smart Fitness Watch,11.0,147.36,0.0,362.93,Latin America,0
+2023-11-06,Ergonomic Desk Chair,19.0,250.29,0.0,421.46,Latin America,0
+2023-11-07,Ceramic Knife Set,9.0,89.51,0.0,75.2,Latin America,0
+2023-11-07,Wireless Earbuds Pro,2.0,198.34,0.0,266.05,North America,0
+2023-11-07,Ceramic Knife Set,12.0,89.53,0.05,290.92,North America,0
+2023-11-10,Ceramic Knife Set,4.0,87.57,0.0,126.11,Latin America,0
+2023-11-12,Insulated Steel Bottle,4.0,29.17,0.0,195.1,Asia Pacific,0
+2023-11-13,Insulated Steel Bottle,18.0,29.19,0.15,248.1,Europe,0
+2023-11-16,Ceramic Knife Set,15.0,88.44,0.0,424.94,Asia Pacific,0
+2023-11-17,Ceramic Knife Set,19.0,87.75,0.0,468.23,North America,1
+2023-11-18,Ceramic Knife Set,13.0,89.11,0.15,332.79,Europe,0
+2023-11-21,Insulated Steel Bottle,19.0,28.92,0.1,227.73,Latin America,0
+2023-11-26,Ceramic Knife Set,17.0,88.3,0.0,164.31,Asia Pacific,0
+2023-11-27,Ceramic Knife Set,6.0,87.45,0.0,491.96,Asia Pacific,0
+2023-11-29,Smart Fitness Watch,16.0,149.02,0.0,492.36,Latin America,0
+2023-11-29,Bluetooth Speaker XS,24.0,78.31,0.0,466.24,Asia Pacific,0
+2023-11-29,Wireless Earbuds Pro,12.0,197.45,0.05,403.55,North America,0
+2023-11-30,Aroma Diffuser Mini,19.0,49.07,0.0,196.6,Latin America,0
+2023-12-02,Wireless Earbuds Pro,5.0,201.41,0.0,417.65,Asia Pacific,0
+2023-12-02,Bluetooth Speaker XS,17.0,78.45,0.15,233.96,Latin America,0
+2023-12-03,Aroma Diffuser Mini,23.0,51.25,0.2,197.05,Europe,0
+2023-12-06,Ergonomic Desk Chair,1.0,252.17,0.0,385.19,Latin America,0
+2023-12-13,Ceramic Knife Set,24.0,87.57,0.05,85.84,Asia Pacific,0
+2023-12-13,Bluetooth Speaker XS,23.0,79.01,0.0,71.85,North America,0
+2023-12-13,Smart Fitness Watch,10.0,152.16,0.15,251.58,Latin America,0
+2023-12-14,Ergonomic Desk Chair,15.0,248.82,0.0,250.54,Latin America,0
+2023-12-14,Ceramic Knife Set,23.0,89.06,0.0,453.04,Asia Pacific,0
+2023-12-16,Insulated Steel Bottle,21.0,26.49,0.0,106.77,North America,0
+2023-12-18,Mechanical Keyboard RGB,21.0,128.2,0.0,105.48,North America,1
+2023-12-18,Bluetooth Speaker XS,11.0,79.83,0.0,116.35,Europe,0
+2023-12-18,Insulated Steel Bottle,13.0,32.64,0.1,63.38,Europe,0
+2023-12-19,Bluetooth Speaker XS,5.0,78.71,0.05,82.28,Asia Pacific,0
+2023-12-19,Smart Fitness Watch,1.0,146.51,0.0,346.94,North America,0
+2023-12-20,Bluetooth Speaker XS,24.0,76.89,0.0,244.21,North America,1
+2023-12-22,Insulated Steel Bottle,12.0,28.95,0.0,393.62,Europe,0
+2023-12-23,Smart Fitness Watch,11.0,150.77,0.15,496.67,Europe,0
+2023-12-24,Aroma Diffuser Mini,17.0,49.96,0.15,346.57,Asia Pacific,0
+2023-12-29,Wireless Earbuds Pro,4.0,199.69,0.2,72.71,North America,1
+2024-01-01,Ceramic Knife Set,,90.96,0.15,97.05,Latin America,0
+2024-01-04,Bluetooth Speaker XS,9.0,77.92,0.0,446.45,Europe,0
+2024-01-07,Ceramic Knife Set,21.0,89.03,0.0,287.37,Asia Pacific,0
+2024-01-13,Mechanical Keyboard RGB,20.0,128.22,0.05,421.18,North America,0
+2024-01-13,Insulated Steel Bottle,19.0,28.59,0.15,435.48,North America,0
+2024-01-13,Ceramic Knife Set,19.0,87.49,0.0,467.45,Europe,0
+2024-01-15,Insulated Steel Bottle,12.0,28.48,0.0,477.42,Asia Pacific,0
+2024-01-17,Ceramic Knife Set,5.0,88.96,0.1,,Latin America,0
+2024-01-17,Wireless Earbuds Pro,10.0,198.44,0.0,203.46,Europe,0
+2024-01-18,Wireless Earbuds Pro,17.0,198.76,0.0,482.84,Asia Pacific,0
+2024-01-21,Smart Fitness Watch,5.0,149.61,0.05,296.33,North America,0
+2024-01-24,Wireless Earbuds Pro,22.0,200.86,0.0,78.91,Latin America,0
+2024-01-25,Smart Fitness Watch,16.0,150.97,0.0,339.25,Asia Pacific,0
+2024-01-26,Wireless Earbuds Pro,7.0,200.14,0.1,314.46,Latin America,0
+2024-01-27,Wireless Earbuds Pro,9.0,197.11,0.05,453.11,Asia Pacific,0
+2024-01-28,Wireless Earbuds Pro,3.0,198.46,0.2,343.93,Asia Pacific,0
+2024-02-01,Insulated Steel Bottle,15.0,28.59,0.0,207.07,Asia Pacific,0
+2024-02-04,Bluetooth Speaker XS,16.0,78.01,0.0,484.8,Asia Pacific,0
+2024-02-04,Smart Fitness Watch,18.0,149.51,0.1,410.73,Latin America,0
+2024-02-05,Ceramic Knife Set,14.0,86.61,0.05,333.69,Europe,0
+2024-02-06,Wireless Earbuds Pro,3.0,201.54,0.0,181.82,Latin America,0
+2024-02-11,Insulated Steel Bottle,12.0,30.79,0.1,218.09,Asia Pacific,0
+2024-02-11,Insulated Steel Bottle,9.0,29.72,0.0,351.49,Latin America,0
+2024-02-11,Insulated Steel Bottle,7.0,28.91,0.0,82.39,Latin America,0
+2024-02-11,Smart Fitness Watch,9.0,150.84,0.0,165.51,Latin America,0
+2024-02-12,Bluetooth Speaker XS,13.0,80.03,0.0,371.26,Asia Pacific,0
+2024-02-14,Smart Fitness Watch,18.0,150.66,0.0,266.01,Latin America,0
+2024-02-15,Ceramic Knife Set,5.0,88.91,0.05,231.08,North America,0
+2024-02-16,Bluetooth Speaker XS,13.0,81.68,0.1,118.16,Asia Pacific,0
+2024-02-16,Aroma Diffuser Mini,4.0,50.75,0.15,248.83,Latin America,0
+2024-02-16,Ergonomic Desk Chair,2.0,249.76,0.0,396.81,North America,0
+2024-02-19,Insulated Steel Bottle,16.0,30.88,0.0,168.81,Latin America,0
+2024-02-20,Smart Fitness Watch,9.0,148.37,0.0,52.43,Europe,0
+2024-02-22,Aroma Diffuser Mini,9.0,47.25,0.0,350.83,Latin America,0
+2024-02-23,Mechanical Keyboard RGB,6.0,129.48,0.05,487.68,Latin America,0
+2024-02-25,Smart Fitness Watch,11.0,148.91,0.1,323.07,Europe,0
+2024-02-27,Wireless Earbuds Pro,22.0,198.7,0.1,103.96,Asia Pacific,0
+2024-02-28,Ergonomic Desk Chair,24.0,250.82,0.0,194.33,Europe,0
+2024-02-29,Wireless Earbuds Pro,22.0,199.25,0.0,440.44,Asia Pacific,0
+2024-03-01,Bluetooth Speaker XS,1.0,79.4,0.0,154.66,Europe,0
+2024-03-02,Ergonomic Desk Chair,4.0,248.51,0.0,323.46,Latin America,0
+2024-03-04,Smart Fitness Watch,13.0,150.32,0.05,231.2,Latin America,0
+2024-03-06,Ceramic Knife Set,23.0,90.05,0.2,,Asia Pacific,0
+2024-03-06,Aroma Diffuser Mini,13.0,50.31,0.0,416.03,Asia Pacific,0
+2024-03-08,Ceramic Knife Set,,88.25,0.1,384.27,North America,0
+2024-03-11,Smart Fitness Watch,2.0,150.96,0.05,347.72,North America,0
+2024-03-12,Bluetooth Speaker XS,9.0,81.76,0.0,156.35,Latin America,0
+2024-03-12,Wireless Earbuds Pro,24.0,200.26,0.05,94.04,Latin America,0
+2024-03-13,Ergonomic Desk Chair,8.0,247.79,0.0,309.27,North America,0
+2024-03-14,Ceramic Knife Set,7.0,87.8,0.0,299.16,North America,0
+2024-03-15,Smart Fitness Watch,4.0,148.44,0.05,134.77,Asia Pacific,0
+2024-03-18,Ceramic Knife Set,18.0,88.15,0.15,75.31,Europe,0
+2024-03-26,Smart Fitness Watch,3.0,148.89,0.0,86.32,Asia Pacific,0
+2024-03-28,Wireless Earbuds Pro,6.0,199.95,0.0,496.75,North America,0
+2024-03-29,Ergonomic Desk Chair,12.0,249.43,0.15,402.61,Latin America,0
+2024-03-29,Aroma Diffuser Mini,12.0,49.3,0.1,464.89,North America,0
+2024-03-30,Wireless Earbuds Pro,21.0,198.64,0.1,137.77,Latin America,0
+2024-03-30,Ceramic Knife Set,8.0,88.89,0.0,482.26,Latin America,0
+2024-03-30,Aroma Diffuser Mini,22.0,50.19,0.15,114.19,Latin America,0
+2024-04-06,Smart Fitness Watch,22.0,145.98,0.0,279.09,Latin America,0
+2024-04-06,Aroma Diffuser Mini,1.0,48.98,0.05,423.36,Europe,0
+2024-04-06,Smart Fitness Watch,4.0,149.43,0.0,207.41,North America,0
+2024-04-08,Wireless Earbuds Pro,21.0,200.18,0.05,241.17,Asia Pacific,0
+2024-04-09,Ceramic Knife Set,11.0,87.48,0.0,107.68,Latin America,0
+2024-04-12,Bluetooth Speaker XS,3.0,77.41,0.0,105.31,Latin America,0
+2024-04-14,Ceramic Knife Set,13.0,89.88,0.0,328.81,Asia Pacific,0
+2024-04-16,Smart Fitness Watch,,146.14,0.0,353.99,Asia Pacific,0
+2024-04-17,Insulated Steel Bottle,22.0,31.0,0.05,399.8,Latin America,0
+2024-04-17,Ergonomic Desk Chair,22.0,249.34,0.15,300.51,Asia Pacific,0
+2024-04-18,Mechanical Keyboard RGB,10.0,131.34,0.2,340.59,Asia Pacific,0
+2024-04-20,Bluetooth Speaker XS,21.0,77.37,0.0,56.08,Europe,0
+2024-04-20,Aroma Diffuser Mini,12.0,48.35,0.1,122.98,Asia Pacific,0
+2024-04-20,Bluetooth Speaker XS,15.0,75.39,0.05,493.21,North America,0
+2024-04-24,Ergonomic Desk Chair,21.0,247.81,0.0,84.2,North America,0
+2024-04-27,Aroma Diffuser Mini,10.0,48.72,0.0,,North America,0
+2024-04-29,Ergonomic Desk Chair,14.0,246.06,0.05,129.24,Latin America,0
+2024-04-30,Aroma Diffuser Mini,13.0,48.41,0.15,372.52,North America,0
+2024-04-30,Bluetooth Speaker XS,5.0,76.02,0.05,367.7,Europe,0
+2024-04-30,Aroma Diffuser Mini,6.0,48.61,0.0,155.39,North America,0
+2024-05-02,Aroma Diffuser Mini,24.0,50.72,0.05,171.34,Latin America,0
+2024-05-03,Insulated Steel Bottle,2.0,28.95,0.0,344.65,Europe,0
+2024-05-03,Ceramic Knife Set,22.0,91.49,0.1,225.54,North America,0
+2024-05-04,Ceramic Knife Set,17.0,90.18,0.1,137.55,Europe,1
+2024-05-04,Mechanical Keyboard RGB,4.0,131.02,0.0,379.26,Europe,0
+2024-05-08,Mechanical Keyboard RGB,14.0,127.85,0.15,119.37,Latin America,0
+2024-05-09,Smart Fitness Watch,10.0,147.82,0.0,435.04,Latin America,0
+2024-05-12,Smart Fitness Watch,3.0,149.52,0.2,281.6,Europe,0
+2024-05-15,Smart Fitness Watch,3.0,146.63,0.0,97.57,North America,0
+2024-05-23,Insulated Steel Bottle,15.0,29.71,0.0,362.33,Latin America,0
+2024-05-23,Mechanical Keyboard RGB,6.0,128.51,0.0,283.62,Europe,0
+2024-05-25,Ergonomic Desk Chair,17.0,250.99,0.0,184.13,Asia Pacific,0
+2024-05-25,Smart Fitness Watch,12.0,150.02,0.0,240.14,Asia Pacific,0
+2024-05-28,Smart Fitness Watch,22.0,150.65,0.05,184.25,Latin America,0
+2024-05-28,Bluetooth Speaker XS,20.0,77.87,0.05,168.36,North America,0
+2024-05-28,Wireless Earbuds Pro,24.0,200.57,0.1,123.62,Asia Pacific,0
+2024-05-30,Ergonomic Desk Chair,11.0,251.17,0.0,213.25,Asia Pacific,0
+2024-05-31,Smart Fitness Watch,4.0,148.94,0.05,162.94,Asia Pacific,0
+2024-06-01,Smart Fitness Watch,6.0,147.89,0.0,357.55,North America,1
+2024-06-01,Smart Fitness Watch,1.0,147.92,0.1,357.74,North America,0
+2024-06-02,Wireless Earbuds Pro,20.0,200.86,0.0,275.83,Latin America,0
+2024-06-04,Wireless Earbuds Pro,23.0,203.03,0.15,400.08,Latin America,0
+2024-06-04,Insulated Steel Bottle,16.0,27.53,0.1,428.6,Asia Pacific,0
+2024-06-04,Ergonomic Desk Chair,15.0,247.41,0.05,310.89,North America,0
+2024-06-06,Insulated Steel Bottle,17.0,30.38,0.0,328.52,Europe,0
+2024-06-06,Aroma Diffuser Mini,8.0,47.87,0.0,177.3,Asia Pacific,0
+2024-06-06,Wireless Earbuds Pro,12.0,200.53,0.0,452.69,Latin America,0
+2024-06-06,Bluetooth Speaker XS,22.0,79.7,0.15,60.89,North America,0
+2024-06-06,Mechanical Keyboard RGB,21.0,128.96,0.15,206.87,Latin America,0
+2024-06-08,Bluetooth Speaker XS,10.0,79.66,0.0,374.81,Latin America,0
+2024-06-08,Mechanical Keyboard RGB,15.0,129.57,0.05,86.04,North America,0
+2024-06-10,Wireless Earbuds Pro,9.0,198.73,0.1,132.43,Asia Pacific,0
+2024-06-10,Wireless Earbuds Pro,2.0,196.37,0.05,315.18,North America,0
+2024-06-10,Wireless Earbuds Pro,5.0,199.27,0.0,302.0,Asia Pacific,0
+2024-06-11,Insulated Steel Bottle,6.0,31.36,0.0,382.52,Latin America,0
+2024-06-13,Ergonomic Desk Chair,7.0,246.59,0.0,415.68,North America,0
+2024-06-16,Mechanical Keyboard RGB,21.0,127.55,0.1,107.86,Europe,0
+2024-06-16,Ergonomic Desk Chair,,249.64,0.0,58.27,Asia Pacific,1
+2024-06-19,Insulated Steel Bottle,23.0,29.06,0.0,360.34,Europe,0
+2024-06-20,Insulated Steel Bottle,7.0,29.62,0.15,185.63,Asia Pacific,0
+2024-06-21,Ceramic Knife Set,20.0,87.95,0.05,,North America,0
+2024-06-23,Bluetooth Speaker XS,12.0,80.74,0.15,117.75,Europe,0
+2024-06-27,Bluetooth Speaker XS,16.0,79.07,0.0,261.07,North America,0
+2024-06-28,Aroma Diffuser Mini,16.0,50.05,0.0,276.99,Asia Pacific,0
+2024-06-29,Smart Fitness Watch,11.0,149.48,0.15,313.29,Asia Pacific,0
+2024-06-30,Insulated Steel Bottle,21.0,29.26,0.0,280.93,Asia Pacific,0
+2024-07-01,Mechanical Keyboard RGB,4.0,129.94,0.0,273.06,Asia Pacific,0
+2024-07-03,Ceramic Knife Set,13.0,89.28,0.0,199.73,Latin America,0
+2024-07-04,Ceramic Knife Set,7.0,87.21,0.0,82.03,Asia Pacific,0
+2024-07-06,Smart Fitness Watch,4.0,150.63,0.0,90.28,Europe,0
+2024-07-09,Ergonomic Desk Chair,15.0,250.23,0.15,245.2,Asia Pacific,0
+2024-07-11,Smart Fitness Watch,19.0,145.84,0.15,210.11,North America,0
+2024-07-11,Smart Fitness Watch,,148.02,0.15,282.26,Latin America,0
+2024-07-14,Smart Fitness Watch,11.0,150.56,0.0,187.18,Europe,0
+2024-07-15,Bluetooth Speaker XS,8.0,76.26,0.0,359.56,Latin America,0
+2024-07-15,Insulated Steel Bottle,1.0,30.42,0.0,438.78,Latin America,0
+2024-07-15,Aroma Diffuser Mini,23.0,48.79,0.15,,Latin America,0
+2024-07-15,Insulated Steel Bottle,24.0,31.01,0.0,136.84,North America,0
+2024-07-18,Ergonomic Desk Chair,8.0,249.0,0.05,102.28,Latin America,0
+2024-07-18,Wireless Earbuds Pro,13.0,197.92,0.1,327.31,Latin America,0
+2024-07-20,Smart Fitness Watch,22.0,149.46,0.0,249.74,Asia Pacific,0
+2024-07-20,Insulated Steel Bottle,4.0,28.95,0.0,134.61,North America,0
+2024-07-20,Ergonomic Desk Chair,8.0,247.78,0.2,343.91,Europe,0
+2024-07-21,Wireless Earbuds Pro,3.0,202.33,0.2,116.82,Europe,0
+2024-07-21,Wireless Earbuds Pro,9.0,197.54,0.0,299.44,Europe,0
+2024-07-24,Smart Fitness Watch,2.0,145.64,0.0,287.22,North America,0
+2024-07-25,Aroma Diffuser Mini,2.0,51.37,0.2,380.4,Europe,0
+2024-07-27,Mechanical Keyboard RGB,13.0,128.12,0.0,74.8,North America,0
+2024-07-28,Bluetooth Speaker XS,15.0,78.55,0.0,449.54,Asia Pacific,0
+2024-07-29,Insulated Steel Bottle,23.0,28.46,0.0,366.35,Asia Pacific,0
+2024-07-30,Wireless Earbuds Pro,12.0,198.15,0.05,147.26,North America,0
+2024-08-01,Insulated Steel Bottle,4.0,27.85,0.0,132.53,Europe,0
+2024-08-04,Mechanical Keyboard RGB,8.0,127.5,0.0,244.25,North America,0
+2024-08-05,Bluetooth Speaker XS,9.0,79.1,0.0,417.9,North America,0
+2024-08-05,Mechanical Keyboard RGB,23.0,128.4,0.05,429.33,Latin America,1
+2024-08-05,Bluetooth Speaker XS,5.0,80.1,0.2,284.21,North America,0
+2024-08-05,Ceramic Knife Set,24.0,89.72,0.1,437.36,Latin America,0
+2024-08-05,Bluetooth Speaker XS,20.0,77.61,0.1,52.45,Asia Pacific,0
+2024-08-07,Smart Fitness Watch,18.0,149.16,0.05,65.83,Latin America,0
+2024-08-11,Aroma Diffuser Mini,11.0,48.37,0.0,,North America,0
+2024-08-12,Mechanical Keyboard RGB,15.0,127.51,0.0,398.9,Asia Pacific,0
+2024-08-12,Wireless Earbuds Pro,22.0,200.03,0.15,252.82,Latin America,0
+2024-08-17,Smart Fitness Watch,9.0,148.82,0.0,389.12,North America,0
+2024-08-17,Ceramic Knife Set,17.0,88.39,0.0,480.04,Asia Pacific,0
+2024-08-17,Aroma Diffuser Mini,12.0,47.72,0.1,397.44,Latin America,0
+2024-08-17,Insulated Steel Bottle,7.0,27.46,0.0,429.07,North America,0
+2024-08-18,Smart Fitness Watch,10.0,151.98,0.0,392.27,North America,0
+2024-08-20,Mechanical Keyboard RGB,10.0,129.5,0.2,125.69,Europe,0
+2024-08-21,Ergonomic Desk Chair,13.0,247.36,0.15,425.11,Europe,0
+2024-08-22,Ergonomic Desk Chair,19.0,249.43,0.0,137.8,Latin America,0
+2024-08-24,Wireless Earbuds Pro,11.0,200.59,0.2,451.68,Latin America,0
+2024-08-25,Bluetooth Speaker XS,13.0,79.25,0.05,256.39,Latin America,0
+2024-08-26,Wireless Earbuds Pro,21.0,201.06,0.1,354.64,North America,0
+2024-08-26,Ergonomic Desk Chair,8.0,246.69,0.0,273.76,Latin America,0
+2024-08-26,Insulated Steel Bottle,,26.01,0.0,92.3,North America,0
+2024-08-28,Ceramic Knife Set,4.0,89.39,0.05,180.83,Latin America,1
+2024-09-03,Ceramic Knife Set,15.0,89.41,0.15,492.68,North America,0
+2024-09-03,Mechanical Keyboard RGB,11.0,123.99,0.05,482.32,North America,0
+2024-09-04,Ceramic Knife Set,11.0,88.06,0.0,194.22,Europe,0
+2024-09-05,Mechanical Keyboard RGB,1.0,127.49,0.0,498.33,Asia Pacific,0
+2024-09-08,Smart Fitness Watch,17.0,146.91,0.1,430.5,North America,0
+2024-09-08,Mechanical Keyboard RGB,15.0,127.48,0.0,324.93,Latin America,0
+2024-09-09,Smart Fitness Watch,20.0,149.89,0.05,68.06,Europe,0
+2024-09-10,Mechanical Keyboard RGB,6.0,127.47,0.0,455.65,Latin America,0
+2024-09-11,Ergonomic Desk Chair,24.0,247.53,0.0,300.84,Latin America,0
+2024-09-15,Ergonomic Desk Chair,22.0,246.57,0.05,440.81,North America,0
+2024-09-15,Bluetooth Speaker XS,15.0,80.9,0.05,425.49,North America,0
+2024-09-16,Smart Fitness Watch,9.0,149.65,0.0,424.85,Asia Pacific,0
+2024-09-17,Aroma Diffuser Mini,14.0,45.26,0.0,364.18,North America,0
+2024-09-17,Smart Fitness Watch,18.0,147.53,0.1,181.14,North America,0
+2024-09-20,Mechanical Keyboard RGB,17.0,129.79,0.0,201.27,Asia Pacific,0
+2024-09-20,Mechanical Keyboard RGB,18.0,130.92,0.05,188.81,Latin America,0
+2024-09-25,Aroma Diffuser Mini,5.0,50.26,0.2,59.02,Asia Pacific,0
+2024-09-25,Wireless Earbuds Pro,20.0,198.47,0.0,312.16,Asia Pacific,0
+2024-09-27,Mechanical Keyboard RGB,20.0,126.1,0.15,364.48,Asia Pacific,0
+2024-09-27,Bluetooth Speaker XS,9.0,80.31,0.0,434.24,Europe,0
+2024-09-29,Ceramic Knife Set,11.0,88.55,0.05,113.07,Latin America,0
+2024-09-29,Ceramic Knife Set,,89.1,0.0,294.88,Europe,0
+2024-10-01,Insulated Steel Bottle,22.0,28.73,0.2,53.6,Europe,0
+2024-10-01,Insulated Steel Bottle,1.0,26.97,0.0,92.79,North America,0
+2024-10-03,Ceramic Knife Set,18.0,89.55,0.0,74.4,Asia Pacific,0
+2024-10-04,Ceramic Knife Set,6.0,89.34,0.2,376.47,Asia Pacific,0
+2024-10-04,Ergonomic Desk Chair,2.0,248.36,0.05,86.48,Europe,0
+2024-10-11,Bluetooth Speaker XS,15.0,79.71,0.05,372.4,North America,0
+2024-10-12,Aroma Diffuser Mini,21.0,46.94,0.0,162.33,North America,0
+2024-10-15,Insulated Steel Bottle,14.0,28.6,0.1,444.97,North America,0
+2024-10-16,Ergonomic Desk Chair,5.0,249.04,0.0,415.92,Latin America,0
+2024-10-18,Ergonomic Desk Chair,6.0,246.4,0.0,481.02,Europe,0
+2024-10-19,Aroma Diffuser Mini,6.0,48.91,0.05,447.69,Latin America,0
+2024-10-19,Ergonomic Desk Chair,,,0.0,470.0,North America,0
+2024-10-20,Smart Fitness Watch,18.0,148.55,0.2,436.43,North America,0
+2024-10-21,Bluetooth Speaker XS,14.0,78.95,0.15,362.02,North America,0
+2024-10-21,Ceramic Knife Set,10.0,89.84,0.1,126.62,Asia Pacific,0
+2024-10-22,Mechanical Keyboard RGB,14.0,128.42,0.1,172.27,Europe,0
+2024-10-22,Aroma Diffuser Mini,13.0,48.55,0.05,145.73,Asia Pacific,0
+2024-10-26,Ceramic Knife Set,3.0,87.23,0.0,321.61,Latin America,0
+2024-10-26,Ceramic Knife Set,6.0,88.98,0.1,276.63,Asia Pacific,0
+2024-10-26,Wireless Earbuds Pro,8.0,198.5,0.0,440.19,Europe,0
+2024-10-28,Smart Fitness Watch,12.0,149.75,0.0,478.7,Asia Pacific,0
+2024-11-01,Aroma Diffuser Mini,13.0,49.85,0.1,232.19,North America,0
+2024-11-02,Ergonomic Desk Chair,11.0,250.19,0.05,277.86,Latin America,0
+2024-11-09,Mechanical Keyboard RGB,12.0,128.24,0.15,487.18,Latin America,0
+2024-11-10,Aroma Diffuser Mini,1.0,45.74,0.0,174.31,North America,0
+2024-11-10,Ergonomic Desk Chair,,250.11,0.05,406.58,North America,0
+2024-11-11,Ceramic Knife Set,16.0,89.65,0.0,151.36,North America,1
+2024-11-16,Mechanical Keyboard RGB,11.0,128.05,0.05,356.66,Europe,0
+2024-11-16,Ergonomic Desk Chair,13.0,249.83,0.1,164.13,Asia Pacific,0
+2024-11-16,Bluetooth Speaker XS,18.0,76.83,0.05,447.68,Latin America,0
+2024-11-17,Ergonomic Desk Chair,11.0,250.55,0.0,302.67,Asia Pacific,0
+2024-11-19,Wireless Earbuds Pro,12.0,198.5,0.0,133.67,North America,0
+2024-11-29,Smart Fitness Watch,6.0,147.76,0.0,150.97,North America,0
+2024-12-01,Ceramic Knife Set,9.0,88.07,0.05,272.23,Asia Pacific,0
+2024-12-04,Ergonomic Desk Chair,16.0,248.65,0.15,482.72,Latin America,0
+2024-12-05,Smart Fitness Watch,4.0,148.98,0.0,396.34,Europe,0
+2024-12-06,Insulated Steel Bottle,3.0,29.07,0.1,269.74,Asia Pacific,0
+2024-12-09,Insulated Steel Bottle,16.0,28.36,0.15,201.97,North America,0
+2024-12-10,Smart Fitness Watch,24.0,149.3,0.05,297.17,North America,0
+2024-12-10,Smart Fitness Watch,12.0,149.01,0.05,386.76,Europe,0
+2024-12-11,Wireless Earbuds Pro,11.0,198.03,0.1,402.77,Asia Pacific,0
+2024-12-12,Bluetooth Speaker XS,5.0,77.8,0.0,196.07,Europe,0
+2024-12-14,Ceramic Knife Set,18.0,89.91,0.0,374.52,Europe,0
+2024-12-16,Aroma Diffuser Mini,19.0,49.79,0.0,346.0,Latin America,0
+2024-12-16,Wireless Earbuds Pro,23.0,199.09,0.2,481.6,Latin America,0
+2024-12-18,Bluetooth Speaker XS,23.0,80.39,0.15,468.99,North America,0
+2024-12-20,Smart Fitness Watch,6.0,146.06,0.1,405.22,Asia Pacific,0
+2024-12-24,Aroma Diffuser Mini,22.0,48.15,0.0,375.53,Latin America,0
+2024-12-29,Smart Fitness Watch,18.0,147.27,0.0,173.32,North America,0
+2024-12-29,Smart Fitness Watch,6.0,152.38,0.0,430.68,Asia Pacific,0
+2024-12-31,Insulated Steel Bottle,4.0,30.07,0.0,242.38,North America,0
+2024-12-31,Insulated Steel Bottle,12.0,28.88,0.05,172.51,Latin America,0
+2025-01-03,Aroma Diffuser Mini,19.0,50.18,0.2,222.87,North America,0
+2025-01-04,Wireless Earbuds Pro,2.0,200.67,0.15,426.17,Asia Pacific,0
+2025-01-06,Insulated Steel Bottle,17.0,,0.05,116.88,Asia Pacific,0
+2025-01-09,Ceramic Knife Set,11.0,90.38,0.0,255.27,North America,0
+2025-01-10,Smart Fitness Watch,11.0,148.61,0.0,271.56,Asia Pacific,0
+2025-01-11,Mechanical Keyboard RGB,21.0,128.25,0.0,66.48,North America,0
+2025-01-12,Ergonomic Desk Chair,16.0,247.56,0.1,138.09,Asia Pacific,0
+2025-01-13,Aroma Diffuser Mini,2.0,49.75,0.1,422.03,North America,0
+2025-01-18,Aroma Diffuser Mini,2.0,48.76,0.0,423.85,North America,0
+2025-01-19,Insulated Steel Bottle,23.0,28.37,0.0,181.59,North America,0
+2025-01-21,Wireless Earbuds Pro,8.0,198.29,0.0,443.7,Europe,0
+2025-01-22,Smart Fitness Watch,13.0,151.18,0.0,397.3,Asia Pacific,0
+2025-01-24,Ceramic Knife Set,10.0,90.43,0.0,238.06,Latin America,0
+2025-01-24,Wireless Earbuds Pro,8.0,201.75,0.0,386.78,North America,0
+2025-01-25,Bluetooth Speaker XS,4.0,79.79,0.0,482.6,Europe,0
+2025-01-26,Bluetooth Speaker XS,15.0,79.09,0.15,256.54,Latin America,0
+2025-01-29,Mechanical Keyboard RGB,1.0,128.96,0.05,157.29,North America,0
+2025-02-01,Insulated Steel Bottle,11.0,27.47,0.0,473.82,Latin America,0
+2025-02-01,Insulated Steel Bottle,7.0,27.11,0.0,321.68,Europe,0
+2025-02-02,Insulated Steel Bottle,17.0,29.76,0.0,97.37,Latin America,0
+2025-02-04,Mechanical Keyboard RGB,20.0,127.6,0.0,307.71,North America,0
+2025-02-04,Bluetooth Speaker XS,24.0,79.32,0.0,275.26,Latin America,1
+2025-02-05,Wireless Earbuds Pro,18.0,200.67,0.05,435.02,Latin America,0
+2025-02-05,Mechanical Keyboard RGB,22.0,128.0,0.05,288.81,North America,0
+2025-02-09,Mechanical Keyboard RGB,22.0,132.02,0.1,164.85,Europe,0
+2025-02-09,Wireless Earbuds Pro,12.0,197.51,0.0,354.04,Europe,0
+2025-02-09,Insulated Steel Bottle,9.0,30.49,0.1,294.16,Latin America,0
+2025-02-09,Ceramic Knife Set,5.0,89.64,0.0,154.87,Asia Pacific,0
+2025-02-13,Wireless Earbuds Pro,10.0,200.79,0.0,308.13,Latin America,0
+2025-02-17,Bluetooth Speaker XS,4.0,77.33,0.05,419.69,Asia Pacific,0
+2025-02-24,Aroma Diffuser Mini,5.0,52.46,0.05,62.86,Latin America,0
+2025-02-25,Smart Fitness Watch,10.0,148.73,0.15,333.88,Europe,0
+2025-02-28,Aroma Diffuser Mini,11.0,50.01,0.1,207.31,Latin America,0
+2025-03-01,Ergonomic Desk Chair,21.0,251.17,0.15,181.7,Latin America,0
+2025-03-01,Ergonomic Desk Chair,24.0,248.09,0.15,,Asia Pacific,0
+2025-03-02,Mechanical Keyboard RGB,10.0,130.24,0.05,203.91,Europe,0
+2025-03-03,Smart Fitness Watch,8.0,147.84,0.05,424.51,Asia Pacific,0
+2025-03-04,Aroma Diffuser Mini,2.0,51.1,0.05,173.66,Latin America,0
+2025-03-04,Ceramic Knife Set,23.0,87.86,0.2,379.92,North America,0
+2025-03-05,Insulated Steel Bottle,8.0,29.06,0.1,92.33,Latin America,0
+2025-03-06,Bluetooth Speaker XS,16.0,79.46,0.0,478.13,Latin America,0
+2025-03-07,Ergonomic Desk Chair,,250.18,0.1,330.04,Asia Pacific,0
+2025-03-08,Ceramic Knife Set,5.0,91.95,0.0,368.02,North America,0
+2025-03-09,Bluetooth Speaker XS,,78.32,0.0,184.12,North America,1
+2025-03-10,Bluetooth Speaker XS,12.0,80.71,0.0,235.44,Asia Pacific,1
+2025-03-10,Insulated Steel Bottle,13.0,31.96,0.05,150.7,Europe,0
+2025-03-11,Smart Fitness Watch,13.0,149.25,0.15,469.64,North America,0
+2025-03-12,Mechanical Keyboard RGB,10.0,128.17,0.0,269.65,North America,0
+2025-03-12,Aroma Diffuser Mini,4.0,46.4,0.0,333.7,Asia Pacific,0
+2025-03-15,Insulated Steel Bottle,9.0,31.82,0.0,380.42,Europe,0
+2025-03-16,Ceramic Knife Set,22.0,88.63,0.05,217.0,Europe,0
+2025-03-21,Mechanical Keyboard RGB,24.0,127.5,0.0,374.05,Latin America,0
+2025-03-22,Ceramic Knife Set,23.0,86.96,0.0,354.2,Latin America,0
+2025-03-23,Mechanical Keyboard RGB,2.0,127.5,0.0,367.55,Asia Pacific,0
+2025-03-25,Smart Fitness Watch,19.0,150.38,0.0,270.15,Europe,0
+2025-03-28,Ergonomic Desk Chair,1.0,250.59,0.0,222.32,Asia Pacific,0
+2025-03-29,Ceramic Knife Set,7.0,89.98,0.1,149.94,Latin America,0
+2025-03-29,Insulated Steel Bottle,17.0,29.2,0.0,421.08,Asia Pacific,0
+2025-03-30,Mechanical Keyboard RGB,3.0,127.13,0.05,323.76,Asia Pacific,0
+2025-04-05,Mechanical Keyboard RGB,20.0,127.91,0.0,249.96,North America,1
+2025-04-05,Bluetooth Speaker XS,20.0,77.34,0.0,474.8,North America,0
+2025-04-09,Bluetooth Speaker XS,21.0,79.86,0.0,71.53,North America,0
+2025-04-10,Wireless Earbuds Pro,3.0,197.41,0.1,432.58,Latin America,0
+2025-04-10,Ceramic Knife Set,3.0,87.93,0.15,498.91,Asia Pacific,0
+2025-04-11,Bluetooth Speaker XS,17.0,78.72,0.15,449.12,North America,0
+2025-04-12,Wireless Earbuds Pro,7.0,196.5,0.05,414.7,North America,0
+2025-04-17,Ergonomic Desk Chair,14.0,249.07,0.0,218.44,North America,0
+2025-04-18,Ergonomic Desk Chair,17.0,248.84,0.1,154.09,Latin America,0
+2025-04-20,Bluetooth Speaker XS,18.0,80.78,0.05,380.68,Latin America,0
+2025-04-20,Ceramic Knife Set,13.0,87.77,0.0,187.06,Asia Pacific,0
+2025-04-21,Mechanical Keyboard RGB,20.0,127.05,0.1,129.22,Asia Pacific,0
+2025-04-21,Aroma Diffuser Mini,20.0,48.44,0.0,403.94,Asia Pacific,0
+2025-04-23,Smart Fitness Watch,21.0,147.35,0.0,190.64,North America,0
+2025-04-24,Ceramic Knife Set,18.0,89.06,0.0,461.5,Europe,0
+2025-04-24,Smart Fitness Watch,,146.21,0.0,428.28,Latin America,0
+2025-04-26,Insulated Steel Bottle,1.0,28.09,0.05,431.44,North America,0
+2025-04-29,Ergonomic Desk Chair,18.0,247.61,0.0,397.21,North America,0
+2025-05-01,Bluetooth Speaker XS,1.0,79.85,0.0,446.4,Asia Pacific,0
+2025-05-05,Bluetooth Speaker XS,13.0,77.78,0.0,412.59,Asia Pacific,0
+2025-05-09,Smart Fitness Watch,20.0,146.4,0.05,321.13,North America,0
+2025-05-11,Mechanical Keyboard RGB,20.0,128.7,0.1,183.12,Latin America,0
+2025-05-14,Smart Fitness Watch,,149.48,0.0,449.69,Latin America,0
+2025-05-15,Insulated Steel Bottle,10.0,28.59,0.0,428.27,North America,0
+2025-05-16,Mechanical Keyboard RGB,11.0,128.08,0.0,262.8,Europe,1
+2025-05-17,Insulated Steel Bottle,9.0,27.99,0.15,67.59,Europe,0
+2025-05-19,Aroma Diffuser Mini,9.0,49.17,0.0,337.34,Latin America,0
+2025-05-23,Ergonomic Desk Chair,5.0,247.67,0.0,72.77,Asia Pacific,0
+2025-05-23,Bluetooth Speaker XS,1.0,78.51,0.0,466.83,Europe,0
+2025-05-24,Bluetooth Speaker XS,17.0,80.13,0.1,482.73,Europe,0
+2025-05-25,Aroma Diffuser Mini,22.0,47.05,0.05,135.27,Asia Pacific,0
+2025-05-27,Wireless Earbuds Pro,2.0,198.93,0.0,354.38,Europe,0
+2025-05-27,Ergonomic Desk Chair,24.0,246.32,0.0,,North America,0
+2025-06-06,Mechanical Keyboard RGB,13.0,129.34,0.0,378.28,Europe,0
+2025-06-08,Aroma Diffuser Mini,9.0,47.53,0.1,206.28,Asia Pacific,0
+2025-06-11,Mechanical Keyboard RGB,4.0,130.53,0.15,356.47,North America,0
+2025-06-11,Smart Fitness Watch,5.0,146.78,0.05,217.79,Europe,0
+2025-06-14,Ceramic Knife Set,11.0,89.66,0.1,115.51,Latin America,0
+2025-06-14,Bluetooth Speaker XS,24.0,80.83,0.0,232.75,North America,0
+2025-06-14,Mechanical Keyboard RGB,19.0,127.45,0.05,100.7,North America,0
+2025-06-18,Insulated Steel Bottle,21.0,27.71,0.05,309.6,Latin America,0
+2025-06-19,Mechanical Keyboard RGB,3.0,127.58,0.0,68.43,Latin America,0
+2025-06-19,Ceramic Knife Set,12.0,88.27,0.15,287.29,Europe,0
+2025-06-20,Ergonomic Desk Chair,,249.78,0.0,448.87,Europe,1
+2025-06-20,Bluetooth Speaker XS,19.0,78.15,0.0,427.04,Asia Pacific,0
+2025-06-20,Smart Fitness Watch,13.0,147.32,0.05,447.25,Asia Pacific,0
+2025-06-22,Aroma Diffuser Mini,7.0,45.97,0.05,464.92,North America,0
+2025-06-23,Smart Fitness Watch,15.0,151.4,0.05,97.04,Latin America,0
+2025-06-24,Ceramic Knife Set,23.0,91.52,0.0,107.94,Latin America,0
+2025-06-24,Bluetooth Speaker XS,7.0,79.84,0.1,300.65,Asia Pacific,0
+2025-06-25,Mechanical Keyboard RGB,8.0,127.78,0.05,452.29,North America,0
+2025-06-25,Ergonomic Desk Chair,5.0,250.12,0.0,488.46,North America,0
+2025-06-25,Wireless Earbuds Pro,21.0,200.42,0.2,70.82,Asia Pacific,1
+2025-06-25,Ergonomic Desk Chair,14.0,248.62,0.1,,Asia Pacific,0
+2025-06-25,Wireless Earbuds Pro,4.0,199.06,0.0,145.8,Asia Pacific,0
+2025-06-27,Insulated Steel Bottle,23.0,30.85,0.1,390.18,Europe,0
+2025-06-28,Ergonomic Desk Chair,10.0,246.54,0.0,338.09,North America,1
+2025-06-28,Bluetooth Speaker XS,20.0,80.5,0.0,103.95,North America,0
+2025-06-29,Wireless Earbuds Pro,15.0,198.54,0.0,267.58,North America,0
+2025-07-02,Aroma Diffuser Mini,18.0,47.33,0.2,358.45,Asia Pacific,0
+2025-07-04,Bluetooth Speaker XS,20.0,77.45,0.0,400.55,Asia Pacific,0
+2025-07-05,Aroma Diffuser Mini,13.0,47.7,0.05,59.02,Asia Pacific,0
+2025-07-05,Ergonomic Desk Chair,8.0,247.18,0.0,450.71,Asia Pacific,0
+2025-07-05,Aroma Diffuser Mini,9.0,51.66,0.1,306.18,Latin America,0
+2025-07-07,Wireless Earbuds Pro,16.0,199.74,0.05,415.36,Asia Pacific,0
+2025-07-08,Bluetooth Speaker XS,19.0,80.6,0.05,413.57,Europe,0
+2025-07-13,Mechanical Keyboard RGB,16.0,129.84,0.0,135.43,Latin America,1
+2025-07-17,Ceramic Knife Set,7.0,89.09,0.1,99.58,Latin America,0
+2025-07-20,Wireless Earbuds Pro,14.0,199.11,0.2,374.58,Asia Pacific,0
+2025-07-22,Wireless Earbuds Pro,14.0,198.4,0.05,120.39,North America,0
+2025-07-22,Mechanical Keyboard RGB,4.0,128.53,0.0,432.47,Asia Pacific,0
+2025-07-23,Bluetooth Speaker XS,15.0,76.89,0.15,376.79,North America,0
+2025-07-23,Bluetooth Speaker XS,3.0,80.62,0.0,428.82,Asia Pacific,0
+2025-07-27,Smart Fitness Watch,5.0,146.28,0.1,184.56,Asia Pacific,0
+2025-07-27,Ergonomic Desk Chair,1.0,247.41,0.15,192.47,North America,0
+2025-07-28,Aroma Diffuser Mini,3.0,52.02,0.0,352.05,North America,0
+2025-08-01,Ergonomic Desk Chair,15.0,249.2,0.0,64.15,North America,0
+2025-08-04,Mechanical Keyboard RGB,24.0,129.27,0.0,376.92,North America,0
+2025-08-06,Ergonomic Desk Chair,8.0,249.96,0.05,426.1,Europe,0
+2025-08-07,Mechanical Keyboard RGB,4.0,126.69,0.05,236.82,North America,0
+2025-08-08,Bluetooth Speaker XS,2.0,76.91,0.0,394.2,Asia Pacific,0
+2025-08-08,Aroma Diffuser Mini,24.0,48.33,0.0,128.57,Asia Pacific,0
+2025-08-10,Ergonomic Desk Chair,24.0,247.64,0.0,195.02,Europe,0
+2025-08-10,Wireless Earbuds Pro,10.0,198.89,0.0,488.44,North America,0
+2025-08-10,Insulated Steel Bottle,4.0,29.73,0.0,493.85,Asia Pacific,0
+2025-08-10,Smart Fitness Watch,3.0,151.08,0.15,280.67,Europe,0
+2025-08-11,Ceramic Knife Set,2.0,90.22,0.0,,Asia Pacific,0
+2025-08-11,Wireless Earbuds Pro,17.0,,0.15,285.23,Europe,0
+2025-08-13,Bluetooth Speaker XS,23.0,78.44,0.05,181.21,Europe,0
+2025-08-14,Ceramic Knife Set,21.0,88.03,0.0,170.1,Latin America,0
+2025-08-15,Insulated Steel Bottle,24.0,27.48,0.1,468.28,Latin America,0
+2025-08-15,Insulated Steel Bottle,20.0,27.13,0.05,127.6,North America,0
+2025-08-18,Aroma Diffuser Mini,23.0,51.5,0.0,310.83,Latin America,1
+2025-08-20,Ceramic Knife Set,13.0,89.02,0.0,299.99,Europe,0
+2025-08-21,Aroma Diffuser Mini,5.0,48.66,0.0,382.83,Asia Pacific,0
+2025-08-21,Wireless Earbuds Pro,21.0,199.73,0.0,274.66,Asia Pacific,0
+2025-08-23,Mechanical Keyboard RGB,9.0,129.8,0.0,172.53,North America,0
+2025-08-23,Mechanical Keyboard RGB,22.0,130.68,0.0,126.23,Latin America,0
+2025-08-24,Mechanical Keyboard RGB,6.0,127.88,0.0,329.37,North America,0
+2025-08-26,Ceramic Knife Set,5.0,89.6,0.0,373.55,Europe,0
+2025-08-27,Mechanical Keyboard RGB,10.0,127.63,0.0,306.28,Latin America,0
+2025-08-28,Wireless Earbuds Pro,8.0,198.71,0.0,382.26,North America,0
+2025-08-29,Aroma Diffuser Mini,7.0,49.09,0.0,113.68,Asia Pacific,0
+2025-08-29,Ceramic Knife Set,7.0,89.23,0.2,447.11,Asia Pacific,0
+2025-09-01,Aroma Diffuser Mini,6.0,49.17,0.0,312.08,North America,0
+2025-09-01,Ceramic Knife Set,21.0,90.2,0.05,107.08,North America,0
+2025-09-02,Aroma Diffuser Mini,20.0,48.1,0.0,257.87,North America,0
+2025-09-04,Insulated Steel Bottle,3.0,29.27,0.15,430.16,Europe,0
+2025-09-05,Aroma Diffuser Mini,19.0,47.86,0.0,453.9,Europe,0
+2025-09-06,Mechanical Keyboard RGB,22.0,133.38,0.2,169.09,Asia Pacific,0
+2025-09-06,Insulated Steel Bottle,15.0,27.63,0.05,370.07,Europe,0
+2025-09-07,Aroma Diffuser Mini,4.0,47.95,0.0,94.99,Europe,0
+2025-09-08,Ceramic Knife Set,12.0,90.32,0.15,65.1,Latin America,0
+2025-09-09,Ceramic Knife Set,6.0,88.36,0.05,302.18,Europe,0
+2025-09-10,Smart Fitness Watch,19.0,150.32,0.0,362.67,Latin America,0
+2025-09-12,Ceramic Knife Set,4.0,89.23,0.1,408.1,Europe,0
+2025-09-12,Bluetooth Speaker XS,15.0,78.4,0.15,203.1,Asia Pacific,0
+2025-09-13,Wireless Earbuds Pro,9.0,197.87,0.0,52.94,North America,0
+2025-09-16,Ceramic Knife Set,5.0,87.82,0.0,265.78,Asia Pacific,0
+2025-09-19,Insulated Steel Bottle,13.0,28.41,0.1,57.13,Europe,0
+2025-09-21,Smart Fitness Watch,23.0,148.74,0.05,91.39,North America,1
+2025-09-30,Ceramic Knife Set,18.0,87.75,0.15,197.01,North America,0
+2025-09-30,Bluetooth Speaker XS,5.0,78.84,0.05,246.73,North America,0
+2025-10-01,Mechanical Keyboard RGB,16.0,127.36,0.0,175.76,Latin America,0
+2025-10-04,Insulated Steel Bottle,19.0,30.13,0.15,311.84,Asia Pacific,0
+2025-10-15,Bluetooth Speaker XS,14.0,80.42,0.0,74.91,Latin America,0
+2025-10-17,Mechanical Keyboard RGB,16.0,127.94,0.0,115.06,North America,0
+2025-10-18,Ergonomic Desk Chair,15.0,247.86,0.05,362.87,Asia Pacific,0
+2025-10-20,Ergonomic Desk Chair,22.0,249.27,0.05,113.96,Asia Pacific,0
+2025-10-22,Insulated Steel Bottle,4.0,30.9,0.0,337.9,Europe,0
+2025-10-24,Aroma Diffuser Mini,7.0,51.23,0.1,74.61,Latin America,0
+2025-10-24,Wireless Earbuds Pro,16.0,196.9,0.0,233.32,Latin America,0
+2025-10-24,Smart Fitness Watch,24.0,150.51,0.0,129.83,Europe,0
+2025-10-25,Wireless Earbuds Pro,22.0,198.91,0.1,99.34,Latin America,0
+2025-10-26,Bluetooth Speaker XS,21.0,78.94,0.0,305.16,North America,0
+2025-10-26,Mechanical Keyboard RGB,22.0,129.76,0.0,467.75,North America,0
+2025-10-28,Wireless Earbuds Pro,21.0,198.28,0.0,74.65,Latin America,0
+2025-10-29,Mechanical Keyboard RGB,8.0,130.65,0.2,239.7,Europe,0
+2025-10-30,Mechanical Keyboard RGB,17.0,131.14,0.0,368.39,Asia Pacific,0
+2025-11-04,Bluetooth Speaker XS,16.0,81.19,0.0,258.21,Latin America,0
+2025-11-04,Bluetooth Speaker XS,23.0,76.23,0.05,412.92,Asia Pacific,0
+2025-11-04,Bluetooth Speaker XS,10.0,78.66,0.0,130.84,Europe,0
+2025-11-07,Wireless Earbuds Pro,10.0,196.1,0.0,481.82,Asia Pacific,0
+2025-11-08,Ergonomic Desk Chair,2.0,247.85,0.05,223.32,Europe,0
+2025-11-08,Bluetooth Speaker XS,9.0,75.4,0.0,203.71,Europe,0
+2025-11-08,Smart Fitness Watch,17.0,149.68,0.2,443.57,North America,0
+2025-11-09,Wireless Earbuds Pro,11.0,199.33,0.0,303.74,North America,0
+2025-11-10,Bluetooth Speaker XS,10.0,78.35,0.0,282.4,Europe,0
+2025-11-12,Ceramic Knife Set,22.0,87.81,0.0,377.14,Latin America,0
+2025-11-17,Mechanical Keyboard RGB,17.0,129.47,0.0,310.93,North America,0
+2025-11-17,Smart Fitness Watch,4.0,147.48,0.05,123.13,Europe,0
+2025-11-18,Bluetooth Speaker XS,16.0,77.38,0.0,353.39,Asia Pacific,0
+2025-11-21,Insulated Steel Bottle,20.0,27.2,0.0,110.06,Asia Pacific,0
+2025-11-21,Mechanical Keyboard RGB,15.0,128.69,0.1,412.64,Latin America,0
+2025-11-23,Mechanical Keyboard RGB,21.0,128.13,0.05,495.38,Asia Pacific,0
+2025-11-26,Bluetooth Speaker XS,5.0,78.42,0.0,219.82,Asia Pacific,0
+2025-11-28,Ergonomic Desk Chair,6.0,249.78,0.0,250.14,Europe,0
+2025-11-28,Aroma Diffuser Mini,17.0,50.44,0.0,70.9,Asia Pacific,0
+2025-11-30,Ergonomic Desk Chair,1.0,251.18,0.0,56.18,Asia Pacific,0
+2025-12-02,Bluetooth Speaker XS,19.0,79.09,0.0,464.64,Asia Pacific,0
+2025-12-02,Mechanical Keyboard RGB,4.0,129.52,0.05,107.88,Asia Pacific,0
+2025-12-03,Smart Fitness Watch,17.0,149.28,0.15,250.6,Europe,0
+2025-12-05,Insulated Steel Bottle,9.0,26.49,0.0,,Asia Pacific,0
+2025-12-05,Smart Fitness Watch,24.0,148.45,0.0,450.19,Latin America,0
+2025-12-08,Smart Fitness Watch,2.0,148.45,0.0,283.73,North America,0
+2025-12-08,Mechanical Keyboard RGB,8.0,128.23,0.0,304.26,Latin America,0
+2025-12-10,Ergonomic Desk Chair,15.0,248.94,0.0,351.36,North America,0
+2025-12-12,Insulated Steel Bottle,7.0,28.67,0.15,482.62,Latin America,0
+2025-12-15,Wireless Earbuds Pro,6.0,197.52,0.05,321.2,North America,0
+2025-12-16,Ceramic Knife Set,1.0,88.77,0.2,301.76,North America,0
+2025-12-16,Mechanical Keyboard RGB,15.0,128.04,0.15,56.54,North America,0
+2025-12-16,Bluetooth Speaker XS,,75.07,0.0,86.43,North America,0
+2025-12-22,Wireless Earbuds Pro,7.0,196.9,0.05,309.73,Europe,0
+2025-12-23,Ceramic Knife Set,17.0,89.13,0.0,471.31,Latin America,0
+2025-12-25,Bluetooth Speaker XS,2.0,80.64,0.0,440.01,North America,0
+2025-12-25,Smart Fitness Watch,9.0,145.36,0.15,492.16,Latin America,0
+2025-12-27,Aroma Diffuser Mini,9.0,47.69,0.0,287.53,Asia Pacific,0
+2025-12-29,Bluetooth Speaker XS,13.0,79.65,0.15,404.57,North America,0
+2025-12-29,Insulated Steel Bottle,6.0,30.32,0.0,428.18,Latin America,0
+2025-12-29,Insulated Steel Bottle,6.0,28.37,0.15,341.61,Europe,1
+2025-12-29,Aroma Diffuser Mini,20.0,47.98,0.15,,Latin America,0
+2025-12-30,Wireless Earbuds Pro,20.0,200.83,0.05,261.49,North America,0
+2026-01-02,Ceramic Knife Set,21.0,90.19,0.05,436.06,Asia Pacific,0
+2026-01-03,Bluetooth Speaker XS,3.0,80.29,0.0,184.35,Latin America,0
+2026-01-03,Insulated Steel Bottle,17.0,28.3,0.1,465.68,Asia Pacific,0
+2026-01-09,Wireless Earbuds Pro,17.0,200.67,0.2,153.41,Europe,0
+2026-01-11,Aroma Diffuser Mini,12.0,46.08,0.1,387.28,Latin America,0
+2026-01-13,Ergonomic Desk Chair,16.0,250.7,0.05,333.75,Latin America,0
+2026-01-16,Mechanical Keyboard RGB,15.0,128.9,0.05,387.32,Europe,0
+2026-01-18,Ergonomic Desk Chair,13.0,249.19,0.1,246.81,Europe,0
+2026-01-20,Ergonomic Desk Chair,23.0,247.58,0.05,469.69,Europe,0
+2026-01-23,Insulated Steel Bottle,1.0,26.28,0.1,334.61,North America,0
+2026-01-26,Smart Fitness Watch,17.0,149.16,0.05,179.73,North America,1
+2026-01-26,Smart Fitness Watch,3.0,149.83,0.0,337.3,Latin America,0
+2026-01-27,Aroma Diffuser Mini,15.0,50.05,0.0,179.07,Latin America,0
+2026-01-28,Bluetooth Speaker XS,4.0,79.89,0.0,182.13,Latin America,0
+2026-01-28,Smart Fitness Watch,4.0,149.55,0.0,229.82,Asia Pacific,0
+2026-01-29,Ergonomic Desk Chair,18.0,247.61,0.0,433.59,Europe,0
+2026-01-30,Smart Fitness Watch,17.0,150.15,0.05,275.13,Latin America,0
+2026-01-30,Ergonomic Desk Chair,19.0,247.45,0.0,355.51,Europe,0
+2026-01-31,Ceramic Knife Set,11.0,90.66,0.0,226.39,North America,0
+2026-02-01,Insulated Steel Bottle,20.0,28.87,0.1,168.62,Europe,1
+2026-02-02,Insulated Steel Bottle,3.0,28.92,0.2,479.59,Asia Pacific,0
+2026-02-07,Bluetooth Speaker XS,8.0,80.3,0.1,321.61,Asia Pacific,0
+2026-02-07,Smart Fitness Watch,14.0,150.5,0.2,470.28,Europe,0
+2026-02-07,Smart Fitness Watch,1.0,150.16,0.05,141.54,Asia Pacific,0
+2026-02-09,Mechanical Keyboard RGB,14.0,127.77,0.0,116.1,Asia Pacific,0
+2026-02-09,Wireless Earbuds Pro,2.0,200.14,0.05,435.12,North America,0
+2026-02-12,Ceramic Knife Set,23.0,87.78,0.1,356.41,Latin America,0
+2026-02-14,Insulated Steel Bottle,4.0,30.18,0.0,133.96,Asia Pacific,0
+2026-02-19,Ceramic Knife Set,24.0,86.86,0.0,171.21,Latin America,0
+2026-02-19,Insulated Steel Bottle,19.0,28.86,0.1,410.3,Europe,0
+2026-02-23,Ceramic Knife Set,6.0,87.77,0.0,254.24,Europe,0
+2026-02-25,Aroma Diffuser Mini,1.0,50.3,0.05,351.74,Asia Pacific,0
+2026-02-25,Ergonomic Desk Chair,17.0,250.67,0.0,193.26,Europe,0
+2026-02-27,Insulated Steel Bottle,8.0,29.3,0.05,221.55,North America,0
+2026-02-28,Ceramic Knife Set,19.0,89.25,0.05,495.82,Asia Pacific,0
+2026-03-03,Smart Fitness Watch,21.0,150.06,0.0,161.43,Asia Pacific,0
+2026-03-03,Wireless Earbuds Pro,1.0,200.68,0.0,277.91,Asia Pacific,0
+2026-03-04,Aroma Diffuser Mini,5.0,49.06,0.05,429.98,Europe,0
+2026-03-05,Aroma Diffuser Mini,16.0,48.25,0.1,157.65,Europe,0
+2026-03-06,Wireless Earbuds Pro,6.0,199.97,0.15,236.85,Asia Pacific,0
+2026-03-06,Ceramic Knife Set,8.0,86.21,0.0,326.79,Latin America,0
+2026-03-06,Smart Fitness Watch,13.0,150.36,0.1,266.53,Europe,0
+2026-03-08,Bluetooth Speaker XS,16.0,77.93,0.0,256.78,Europe,0
+2026-03-09,Wireless Earbuds Pro,3.0,198.64,0.0,213.13,Asia Pacific,0
+2026-03-11,Ceramic Knife Set,19.0,90.37,0.0,313.99,Latin America,0
+2026-03-11,Wireless Earbuds Pro,12.0,198.38,0.05,330.97,Asia Pacific,0
+2026-03-11,Wireless Earbuds Pro,16.0,199.97,0.0,343.98,Europe,0
+2026-03-15,Insulated Steel Bottle,11.0,30.71,0.0,81.67,Asia Pacific,0
+2026-03-16,Ceramic Knife Set,10.0,89.17,0.05,333.97,Asia Pacific,0
+2026-03-17,Bluetooth Speaker XS,20.0,79.47,0.1,478.96,Asia Pacific,1
+2026-03-17,Ergonomic Desk Chair,4.0,248.82,0.0,293.44,Latin America,0
+2026-03-19,Insulated Steel Bottle,12.0,29.17,0.0,371.87,Asia Pacific,0
+2026-03-22,Wireless Earbuds Pro,23.0,197.33,0.0,300.53,Europe,0
+2026-03-22,Ergonomic Desk Chair,2.0,248.56,0.0,434.63,Asia Pacific,0
+2026-03-22,Mechanical Keyboard RGB,24.0,127.07,0.05,468.31,Latin America,0
+2026-03-24,Ergonomic Desk Chair,22.0,247.65,0.0,132.9,North America,0
+2026-03-27,Wireless Earbuds Pro,19.0,196.0,0.05,246.59,Latin America,0
+2026-03-29,Wireless Earbuds Pro,5.0,199.4,0.15,226.57,Asia Pacific,0
+2026-03-30,Smart Fitness Watch,8.0,151.54,0.0,232.35,North America,0
+2026-03-30,Ceramic Knife Set,7.0,88.32,0.2,106.49,Asia Pacific,0
+2026-04-02,Ceramic Knife Set,14.0,90.45,0.0,416.13,Latin America,0
+2026-04-04,Insulated Steel Bottle,24.0,30.69,0.0,66.09,North America,0
+2026-04-04,Bluetooth Speaker XS,23.0,77.2,0.0,287.7,North America,0
+2026-04-05,Insulated Steel Bottle,3.0,27.52,0.0,347.85,Asia Pacific,0
+2026-04-05,Aroma Diffuser Mini,18.0,50.49,0.0,143.36,Asia Pacific,0
+2026-04-08,Wireless Earbuds Pro,16.0,198.86,0.0,457.63,Latin America,0
+2026-04-10,Ergonomic Desk Chair,23.0,247.06,0.1,427.35,Asia Pacific,0
+2026-04-12,Mechanical Keyboard RGB,19.0,128.04,0.15,261.99,North America,0
+2026-04-13,Wireless Earbuds Pro,19.0,199.63,0.05,235.02,Europe,0
+2026-04-15,Wireless Earbuds Pro,18.0,197.81,0.0,156.46,Europe,0
+2026-04-16,Insulated Steel Bottle,20.0,24.84,0.05,378.5,Latin America,0
+2026-04-16,Mechanical Keyboard RGB,16.0,128.52,0.05,109.28,Asia Pacific,0
+2026-04-17,Mechanical Keyboard RGB,8.0,128.64,0.1,356.11,Latin America,1
+2026-04-18,Mechanical Keyboard RGB,1.0,129.01,0.1,429.11,Europe,1
+2026-04-19,Insulated Steel Bottle,17.0,30.89,0.15,152.81,Europe,0
+2026-04-20,Wireless Earbuds Pro,12.0,199.08,0.0,439.89,Asia Pacific,0
+2026-04-24,Insulated Steel Bottle,21.0,29.36,0.05,65.0,North America,0
+2026-04-27,Ceramic Knife Set,11.0,90.58,0.0,460.75,Asia Pacific,0
+2026-04-28,Ceramic Knife Set,5.0,89.02,0.2,103.26,Europe,0
+2026-04-29,Insulated Steel Bottle,12.0,32.2,0.0,340.59,North America,0
+2026-05-01,Mechanical Keyboard RGB,17.0,127.1,0.0,162.54,Latin America,0
+2026-05-04,Smart Fitness Watch,6.0,147.6,0.0,,Europe,0
+2026-05-06,Wireless Earbuds Pro,1.0,199.92,0.1,280.54,Latin America,0
+2026-05-10,Insulated Steel Bottle,5.0,30.88,0.0,110.86,North America,0
+2026-05-10,Insulated Steel Bottle,14.0,28.7,0.0,306.95,Latin America,0
+2026-05-10,Insulated Steel Bottle,5.0,27.48,0.2,233.55,Europe,0
+2026-05-13,Smart Fitness Watch,22.0,151.64,0.15,347.65,Asia Pacific,0
+2026-05-14,Smart Fitness Watch,24.0,147.81,0.0,446.86,Latin America,0
+2026-05-18,Aroma Diffuser Mini,1.0,49.51,0.0,234.23,Europe,0
+2026-05-23,Ceramic Knife Set,18.0,90.97,0.1,,Europe,0
+2026-05-24,Ergonomic Desk Chair,16.0,248.34,0.15,56.53,North America,0
+2026-05-24,Mechanical Keyboard RGB,9.0,128.07,0.05,308.68,Europe,0
+2026-05-24,Bluetooth Speaker XS,19.0,78.17,0.05,231.02,Asia Pacific,0
+2026-05-25,Smart Fitness Watch,22.0,150.35,0.0,218.59,Asia Pacific,0
+2026-05-29,Ergonomic Desk Chair,5.0,250.59,0.1,132.32,Latin America,0
+2026-05-30,Smart Fitness Watch,2.0,149.05,0.05,243.52,Latin America,0
+2026-05-31,Mechanical Keyboard RGB,15.0,131.82,0.05,493.0,Latin America,0
+2026-05-31,Bluetooth Speaker XS,7.0,79.05,0.0,183.99,Latin America,0
+2026-06-01,Aroma Diffuser Mini,4.0,50.94,0.15,319.87,Asia Pacific,0
+2026-06-04,Insulated Steel Bottle,1.0,28.35,0.05,399.42,North America,1
+2026-06-05,Aroma Diffuser Mini,13.0,52.5,0.0,387.12,Latin America,0
+2026-06-05,Smart Fitness Watch,20.0,151.36,0.05,197.95,North America,0
+2026-06-05,Aroma Diffuser Mini,22.0,48.81,0.05,324.89,Europe,0
+2026-06-06,Ergonomic Desk Chair,7.0,251.15,0.05,442.07,Europe,0
+2026-06-06,Wireless Earbuds Pro,15.0,201.08,0.1,56.95,Latin America,0
+2026-06-08,Smart Fitness Watch,23.0,151.33,0.05,246.08,Europe,0
+2026-06-09,Smart Fitness Watch,14.0,145.28,0.15,150.92,North America,0
+2026-06-10,Ergonomic Desk Chair,23.0,250.08,0.0,224.88,North America,0
+2026-06-10,Ceramic Knife Set,19.0,89.81,0.0,237.2,Europe,0
+2026-06-13,Bluetooth Speaker XS,22.0,79.71,0.0,386.0,Latin America,0
+2026-06-13,Insulated Steel Bottle,24.0,29.33,0.05,92.22,North America,0
+2026-06-14,Ergonomic Desk Chair,20.0,249.37,0.05,280.66,North America,0
+2026-06-18,Bluetooth Speaker XS,24.0,80.92,0.15,303.89,Asia Pacific,0
+2026-06-18,Mechanical Keyboard RGB,18.0,129.81,0.1,272.37,Latin America,0
+2026-06-18,Bluetooth Speaker XS,10.0,79.33,0.05,379.34,Asia Pacific,0
+2026-06-20,Mechanical Keyboard RGB,9.0,130.71,0.2,222.71,Europe,0
+2026-06-20,Ergonomic Desk Chair,8.0,249.63,0.0,475.24,Europe,0
+2026-06-21,Smart Fitness Watch,10.0,149.77,0.1,266.81,Asia Pacific,0
+2026-06-22,Smart Fitness Watch,17.0,151.8,0.0,307.05,Latin America,0
+2026-06-22,Ceramic Knife Set,2.0,88.35,0.05,,North America,0
+2026-06-24,Ergonomic Desk Chair,6.0,246.73,0.1,173.86,Europe,0
+2026-06-24,Mechanical Keyboard RGB,5.0,129.11,0.05,83.84,Latin America,0
+2026-06-25,Bluetooth Speaker XS,9.0,79.32,0.0,368.5,Latin America,0
+2026-06-30,Bluetooth Speaker XS,5.0,80.08,0.0,267.36,Europe,0
+2026-06-30,Mechanical Keyboard RGB,18.0,129.16,0.05,453.43,Europe,0
+2026-06-30,Aroma Diffuser Mini,20.0,50.13,0.1,492.21,Latin America,0
+2026-07-01,Ceramic Knife Set,9.0,92.76,0.0,229.6,North America,0
+2026-07-02,Wireless Earbuds Pro,17.0,200.2,0.15,236.95,Asia Pacific,0
+2026-07-06,Smart Fitness Watch,17.0,150.47,0.0,233.58,Europe,0
+2026-07-07,Insulated Steel Bottle,12.0,28.81,0.05,196.05,Asia Pacific,0
+2026-07-11,Bluetooth Speaker XS,7.0,76.92,0.1,401.76,Latin America,0
+2026-07-15,Insulated Steel Bottle,3.0,25.55,0.05,391.55,Asia Pacific,0
+2026-07-20,Wireless Earbuds Pro,10.0,198.22,0.2,265.39,North America,0
+2026-07-20,Ergonomic Desk Chair,2.0,245.13,0.05,70.1,Latin America,0
+2026-07-21,Insulated Steel Bottle,3.0,29.77,0.05,189.3,North America,0
+2026-07-24,Wireless Earbuds Pro,16.0,198.43,0.0,181.54,Latin America,0
+2026-07-26,Smart Fitness Watch,2.0,147.03,0.0,414.99,North America,0
+2026-07-27,Mechanical Keyboard RGB,24.0,129.2,0.0,89.41,Latin America,0
+2026-07-29,Aroma Diffuser Mini,10.0,47.89,0.1,412.55,North America,0
+2026-07-29,Smart Fitness Watch,6.0,149.68,0.0,351.13,Latin America,0
+2026-07-30,Bluetooth Speaker XS,22.0,80.06,0.0,379.6,North America,0
+2026-08-01,Wireless Earbuds Pro,11.0,197.95,0.0,244.5,Latin America,0
+2026-08-01,Insulated Steel Bottle,23.0,28.64,0.0,355.88,North America,0
+2026-08-02,Bluetooth Speaker XS,7.0,79.32,0.0,324.06,Europe,0
+2026-08-03,Aroma Diffuser Mini,15.0,46.89,0.15,396.04,Asia Pacific,0
+2026-08-03,Mechanical Keyboard RGB,6.0,129.32,0.1,251.05,Latin America,0
+2026-08-04,Ergonomic Desk Chair,20.0,246.85,0.1,262.77,North America,0
+2026-08-04,Bluetooth Speaker XS,9.0,79.85,0.1,339.61,Europe,0
+2026-08-06,Ergonomic Desk Chair,22.0,248.35,0.0,98.63,Latin America,0
+2026-08-06,Wireless Earbuds Pro,20.0,196.85,0.15,246.31,Latin America,0
+2026-08-09,Aroma Diffuser Mini,12.0,48.13,0.0,487.38,Latin America,0
+2026-08-10,Insulated Steel Bottle,19.0,28.19,0.0,66.9,Asia Pacific,0
+2026-08-11,Aroma Diffuser Mini,20.0,50.6,0.05,192.2,North America,0
+2026-08-11,Aroma Diffuser Mini,3.0,49.26,0.0,191.35,North America,0
+2026-08-12,Ceramic Knife Set,15.0,87.57,0.1,335.06,Latin America,0
+2026-08-13,Aroma Diffuser Mini,2.0,51.47,0.0,97.61,Latin America,0
+2026-08-14,Aroma Diffuser Mini,21.0,49.94,0.1,332.84,Latin America,0
+2026-08-15,Smart Fitness Watch,2.0,148.5,0.0,92.77,Europe,0
+2026-08-17,Bluetooth Speaker XS,22.0,76.67,0.0,92.73,Latin America,0
+2026-08-17,Insulated Steel Bottle,3.0,28.36,0.1,377.68,Asia Pacific,0
+2026-08-17,Smart Fitness Watch,6.0,148.67,0.0,195.86,North America,0
+2026-08-18,Smart Fitness Watch,15.0,149.55,0.0,489.84,Asia Pacific,0
+2026-08-19,Bluetooth Speaker XS,10.0,79.91,0.0,66.81,Latin America,0
+2026-08-19,Bluetooth Speaker XS,9.0,80.21,0.05,250.3,Europe,0
+2026-08-21,Wireless Earbuds Pro,1.0,196.58,0.05,100.91,Latin America,0
+2026-08-21,Bluetooth Speaker XS,16.0,79.31,0.0,208.12,Latin America,0
+2026-08-23,Ceramic Knife Set,6.0,88.76,0.2,499.2,Latin America,0
+2026-08-24,Ceramic Knife Set,9.0,93.02,0.15,449.98,Latin America,0
+2026-08-25,Smart Fitness Watch,4.0,149.1,0.1,71.75,Latin America,0
+2026-08-25,Ergonomic Desk Chair,2.0,248.07,0.1,303.47,North America,0
+2026-08-27,Wireless Earbuds Pro,4.0,199.17,0.0,341.52,Asia Pacific,0
+2026-08-28,Ergonomic Desk Chair,1.0,248.99,0.05,144.29,Europe,0
+2026-08-28,Ergonomic Desk Chair,19.0,246.02,0.0,115.3,Latin America,0
+2026-08-31,Smart Fitness Watch,10.0,149.61,0.0,456.97,Europe,0
+2026-08-31,Mechanical Keyboard RGB,21.0,128.53,0.2,485.97,North America,0
+2026-09-02,Smart Fitness Watch,15.0,148.96,0.05,496.35,Asia Pacific,1
+2026-09-02,Insulated Steel Bottle,22.0,27.69,0.0,405.39,Latin America,0
+2026-09-03,Insulated Steel Bottle,19.0,27.36,0.0,348.58,North America,0
+2026-09-04,Bluetooth Speaker XS,16.0,80.32,0.05,205.58,North America,0
+2026-09-06,Bluetooth Speaker XS,21.0,80.66,0.0,127.13,Asia Pacific,0
+2026-09-06,Mechanical Keyboard RGB,24.0,129.63,0.0,85.54,Latin America,0
+2026-09-07,Bluetooth Speaker XS,22.0,76.28,0.0,361.98,Asia Pacific,0
+2026-09-08,Insulated Steel Bottle,4.0,29.72,0.0,403.13,Asia Pacific,0
+2026-09-08,Ergonomic Desk Chair,2.0,246.31,0.05,421.9,Europe,1
+2026-09-11,Smart Fitness Watch,13.0,148.01,0.0,461.19,Europe,0
+2026-09-13,Aroma Diffuser Mini,1.0,50.3,0.1,445.97,Asia Pacific,0
+2026-09-13,Ceramic Knife Set,17.0,89.99,0.0,499.88,Europe,0
+2026-09-13,Aroma Diffuser Mini,13.0,49.69,0.05,159.83,North America,0
+2026-09-14,Aroma Diffuser Mini,4.0,50.97,0.2,393.49,Asia Pacific,0
+2026-09-16,Insulated Steel Bottle,,29.84,0.05,313.91,Latin America,0
+2026-09-17,Aroma Diffuser Mini,17.0,45.97,0.15,167.56,Latin America,0
+2026-09-19,Smart Fitness Watch,9.0,148.45,0.15,491.86,North America,0
+2026-09-20,Mechanical Keyboard RGB,4.0,128.94,0.0,454.05,Latin America,0
+2026-09-21,Wireless Earbuds Pro,19.0,198.76,0.1,107.83,Latin America,1
+2026-09-21,Bluetooth Speaker XS,1.0,78.07,0.15,61.77,Asia Pacific,0
+2026-09-26,Wireless Earbuds Pro,10.0,197.45,0.0,359.75,North America,0
+2026-09-26,Ergonomic Desk Chair,4.0,252.6,0.0,321.86,Asia Pacific,0
+2026-09-26,Smart Fitness Watch,9.0,148.42,0.15,471.12,North America,0
+2026-10-02,Smart Fitness Watch,13.0,152.53,0.1,155.3,Asia Pacific,0
+2026-10-03,Ceramic Knife Set,14.0,87.29,0.0,87.97,Asia Pacific,0
+2026-10-07,Smart Fitness Watch,10.0,149.99,0.0,166.65,Europe,0
+2026-10-08,Bluetooth Speaker XS,6.0,79.34,0.1,58.52,Latin America,0
+2026-10-10,Smart Fitness Watch,,,0.05,66.15,North America,0
+2026-10-11,Aroma Diffuser Mini,6.0,48.3,0.05,461.69,Latin America,0
+2026-10-11,Ceramic Knife Set,17.0,88.98,0.1,208.41,Europe,0
+2026-10-15,Bluetooth Speaker XS,10.0,77.73,0.05,234.86,North America,0
+2026-10-18,Mechanical Keyboard RGB,18.0,128.62,0.05,58.27,Europe,0
+2026-10-18,Mechanical Keyboard RGB,22.0,125.45,0.1,171.73,Latin America,0
+2026-10-22,Mechanical Keyboard RGB,18.0,130.07,0.1,412.13,Asia Pacific,0
+2026-10-24,Mechanical Keyboard RGB,3.0,130.84,0.05,326.97,Europe,0
+2026-10-24,Aroma Diffuser Mini,20.0,49.68,0.0,389.2,Europe,0
+2026-10-27,Smart Fitness Watch,21.0,152.4,0.0,251.25,Asia Pacific,0
+2026-10-28,Wireless Earbuds Pro,15.0,200.02,0.2,189.38,Latin America,0
+2026-10-30,Bluetooth Speaker XS,15.0,80.71,0.0,267.26,Europe,1
+2026-10-31,Aroma Diffuser Mini,4.0,50.86,0.0,195.38,Latin America,0
+2026-11-04,Mechanical Keyboard RGB,9.0,124.87,0.0,427.54,Asia Pacific,0
+2026-11-05,Ergonomic Desk Chair,19.0,249.64,0.1,183.95,North America,0
+2026-11-05,Smart Fitness Watch,24.0,146.93,0.0,346.89,Europe,0
+2026-11-06,Wireless Earbuds Pro,17.0,197.23,0.0,111.64,Latin America,0
+2026-11-07,Ergonomic Desk Chair,11.0,247.49,0.0,359.09,Asia Pacific,0
+2026-11-08,Ceramic Knife Set,9.0,,0.1,460.98,Asia Pacific,0
+2026-11-10,Ergonomic Desk Chair,10.0,249.98,0.0,323.86,Europe,0
+2026-11-10,Ceramic Knife Set,18.0,89.65,0.0,301.93,North America,0
+2026-11-10,Ceramic Knife Set,20.0,88.98,0.0,482.5,Europe,0
+2026-11-11,Mechanical Keyboard RGB,13.0,130.08,0.15,332.33,Latin America,0
+2026-11-12,Ceramic Knife Set,8.0,90.18,0.0,166.8,Asia Pacific,0
+2026-11-13,Insulated Steel Bottle,7.0,29.66,0.0,181.58,North America,0
+2026-11-13,Bluetooth Speaker XS,17.0,76.41,0.05,367.39,Latin America,0
+2026-11-14,Bluetooth Speaker XS,21.0,77.89,0.2,380.95,Europe,0
+2026-11-14,Mechanical Keyboard RGB,23.0,129.04,0.05,186.57,Asia Pacific,0
+2026-11-16,Insulated Steel Bottle,15.0,30.1,0.2,205.4,Europe,0
+2026-11-17,Ergonomic Desk Chair,20.0,247.01,0.1,495.98,North America,0
+2026-11-17,Aroma Diffuser Mini,15.0,48.98,0.0,95.88,North America,0
+2026-11-18,Ergonomic Desk Chair,1.0,246.65,0.05,232.09,North America,0
+2026-11-21,Smart Fitness Watch,14.0,150.54,0.0,78.1,North America,0
+2026-11-22,Aroma Diffuser Mini,5.0,49.36,0.05,419.49,North America,0
+2026-11-23,Ceramic Knife Set,11.0,86.98,0.0,91.56,Europe,0
+2026-11-27,Wireless Earbuds Pro,16.0,196.97,0.0,353.3,North America,0
+2026-11-27,Aroma Diffuser Mini,2.0,49.58,0.15,75.42,North America,0
+2026-11-29,Wireless Earbuds Pro,8.0,201.06,0.0,352.78,Asia Pacific,0
+2026-11-29,Bluetooth Speaker XS,11.0,77.35,0.15,429.37,North America,0
+2026-12-01,Wireless Earbuds Pro,18.0,200.18,0.0,229.47,Asia Pacific,0
+2026-12-02,Bluetooth Speaker XS,3.0,78.19,0.0,284.96,Asia Pacific,0
+2026-12-03,Insulated Steel Bottle,1.0,30.23,0.15,230.69,Asia Pacific,0
+2026-12-04,Insulated Steel Bottle,11.0,30.02,0.05,185.22,Europe,0
+2026-12-06,Mechanical Keyboard RGB,16.0,129.23,0.1,411.47,Europe,0
+2026-12-10,Mechanical Keyboard RGB,18.0,126.25,0.0,172.4,Latin America,0
+2026-12-10,Ceramic Knife Set,16.0,90.02,0.05,375.32,Latin America,0
+2026-12-10,Aroma Diffuser Mini,23.0,49.75,0.1,142.79,Asia Pacific,0
+2026-12-14,Ceramic Knife Set,10.0,89.62,0.05,162.43,Europe,0
+2026-12-16,Bluetooth Speaker XS,18.0,79.29,0.0,201.41,North America,0
+2026-12-21,Ceramic Knife Set,6.0,87.68,0.2,315.12,Latin America,0
+2026-12-21,Wireless Earbuds Pro,,200.62,0.05,254.49,Europe,0
+2026-12-23,Bluetooth Speaker XS,4.0,80.35,0.15,385.32,North America,0
+2026-12-28,Mechanical Keyboard RGB,13.0,127.39,0.1,146.11,North America,0
+2026-12-29,Insulated Steel Bottle,24.0,30.97,0.1,54.8,Europe,0
+2026-12-31,Mechanical Keyboard RGB,14.0,129.2,0.0,399.45,Latin America,0
+2021-01-02,Mechanical Keyboard RGB,19.0,129.5,0.0,211.76,Asia Pacific,0
+2021-01-02,Smart Fitness Watch,12.0,145.27,0.1,436.27,Europe,0
+2021-01-02,Insulated Steel Bottle,11.0,30.47,0.1,154.67,Asia Pacific,0
+2021-01-03,Ceramic Knife Set,2.0,87.87,0.0,101.98,Latin America,0
+2021-01-04,Insulated Steel Bottle,15.0,26.94,0.0,196.75,Latin America,0
+2021-01-05,Bluetooth Speaker XS,12.0,78.49,0.0,149.2,Europe,0
+2021-01-06,Mechanical Keyboard RGB,12.0,128.11,0.1,466.38,Asia Pacific,0
+2021-01-10,Wireless Earbuds Pro,9.0,200.61,0.1,440.58,Europe,0
+2021-01-10,Wireless Earbuds Pro,21.0,198.37,0.15,274.86,North America,0
+2021-01-11,Ceramic Knife Set,24.0,91.04,0.05,77.6,North America,0
+2021-01-11,Bluetooth Speaker XS,2.0,79.5,0.0,371.55,North America,0
+2021-01-12,Smart Fitness Watch,22.0,150.34,0.0,330.54,Asia Pacific,0
+2021-01-12,Aroma Diffuser Mini,3.0,49.0,0.1,486.75,North America,1
+2021-01-14,Bluetooth Speaker XS,12.0,80.91,0.0,301.53,Europe,0
+2021-01-14,Wireless Earbuds Pro,16.0,197.27,0.0,201.38,Asia Pacific,0
+2021-01-16,Wireless Earbuds Pro,21.0,199.17,0.0,283.56,Europe,0
+2021-01-17,Smart Fitness Watch,24.0,148.41,0.0,490.67,Latin America,0
+2021-01-20,Mechanical Keyboard RGB,1.0,131.09,0.0,363.36,Asia Pacific,0
